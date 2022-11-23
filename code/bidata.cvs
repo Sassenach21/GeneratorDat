@@ -1,501 +1,501 @@
-,Transit ID,Datum,Měna,Region,Poslytovatel dopravy,Doprava
-0,1000,2022-03-03,EUR,Pardubický kraj,Pap Trutnov,vlak
-1,1001,2022-08-15,CZK,"Ústecký kraj,Vysočina",Toptrans,kamion
-2,1002,2022-05-11,EUR,Zlínský kraj,Spedquick Třebíč,vlak
-3,1003,2022-03-06,EUR,Královehradecký kraj,Pap Trutnov,kamion
-4,1004,2022-01-14,EUR,Olomoucký kraj,Spedquick Třebíč,nákladní vozidlo
-5,1005,2022-07-11,CZK,"Ústecký kraj,Vysočina",Toptrans,vlak
-6,1006,2022-03-22,CZK,Moravskoslezský kraj,Geis,vlak
-7,1007,2021-12-09,CZK,Olomoucký kraj,GLS,kamion
-8,1008,2022-10-22,EUR,Plzeňský kraj,Spedquick Třebíč,vlak
-9,1009,2022-01-25,EUR,Královehradecký kraj,Pap Trutnov,vlak
-10,1010,2022-06-15,EUR,Jihočeský kraj,Geis,nákladní vozidlo
-11,1011,2021-11-25,EUR,Karlovarský kraj,Toptrans,vlak
-12,1012,2022-08-15,EUR,Moravskoslezský kraj,GLS,nákladní vozidlo
-13,1013,2022-09-26,CZK,Hlavní město Praha,Toptrans,nákladní vozidlo
-14,1014,2022-04-28,CZK,Plzeňský kraj,Toptrans,vlak
-15,1015,2022-04-23,EUR,Královehradecký kraj,Pap Trutnov,kamion
-16,1016,2021-12-05,CZK,Hlavní město Praha,Pap Trutnov,vlak
-17,1017,2022-07-26,EUR,Středočeský kraj,Spedquick Třebíč,vlak
-18,1018,2022-01-05,CZK,Zlínský kraj,GLS,kamion
-19,1019,2021-12-19,CZK,Olomoucký kraj,Pap Trutnov,vlak
-20,1020,2022-10-03,CZK,Středočeský kraj,Toptrans,nákladní vozidlo
-21,1021,2022-08-09,CZK,Jihočeský kraj,Pap Trutnov,kamion
-22,1022,2022-05-13,CZK,Zlínský kraj,Geis,kamion
-23,1023,2021-12-19,EUR,Liberecký kraj,Geis,vlak
-24,1024,2022-04-03,CZK,Karlovarský kraj,GLS,kamion
-25,1025,2021-12-06,CZK,Karlovarský kraj,Spedquick Třebíč,nákladní vozidlo
-26,1026,2022-06-16,CZK,Pardubický kraj,Toptrans,vlak
-27,1027,2022-04-23,CZK,Pardubický kraj,Pap Trutnov,nákladní vozidlo
-28,1028,2022-08-01,CZK,Karlovarský kraj,GLS,kamion
-29,1029,2022-07-11,EUR,Moravskoslezský kraj,Geis,nákladní vozidlo
-30,1030,2022-02-21,CZK,Hlavní město Praha,Spedquick Třebíč,nákladní vozidlo
-31,1031,2022-09-23,CZK,Olomoucký kraj,GLS,nákladní vozidlo
-32,1032,2022-07-25,EUR,Hlavní město Praha,Pap Trutnov,kamion
-33,1033,2022-10-19,CZK,Liberecký kraj,GLS,kamion
-34,1034,2022-01-30,CZK,Středočeský kraj,Toptrans,kamion
-35,1035,2022-02-25,CZK,Plzeňský kraj,Geis,vlak
-36,1036,2022-07-16,CZK,Pardubický kraj,Geis,nákladní vozidlo
-37,1037,2022-02-09,CZK,Středočeský kraj,Spedquick Třebíč,vlak
-38,1038,2021-12-25,EUR,Hlavní město Praha,Spedquick Třebíč,kamion
-39,1039,2022-01-04,CZK,Plzeňský kraj,Geis,vlak
-40,1040,2022-02-14,EUR,Moravskoslezský kraj,Toptrans,nákladní vozidlo
-41,1041,2022-07-22,CZK,Jihomoravský kraj,Geis,kamion
-42,1042,2022-08-15,CZK,Karlovarský kraj,Toptrans,nákladní vozidlo
-43,1043,2022-07-26,CZK,Zlínský kraj,GLS,vlak
-44,1044,2022-11-15,EUR,Královehradecký kraj,GLS,kamion
-45,1045,2022-06-13,EUR,Jihomoravský kraj,Spedquick Třebíč,nákladní vozidlo
-46,1046,2022-10-16,EUR,Moravskoslezský kraj,Spedquick Třebíč,vlak
-47,1047,2022-10-31,EUR,Královehradecký kraj,GLS,vlak
-48,1048,2022-02-05,CZK,Pardubický kraj,Spedquick Třebíč,nákladní vozidlo
-49,1049,2022-06-10,CZK,Jihočeský kraj,Pap Trutnov,kamion
-50,1050,2022-01-24,CZK,Olomoucký kraj,GLS,kamion
-51,1051,2022-02-16,CZK,Jihomoravský kraj,Spedquick Třebíč,nákladní vozidlo
-52,1052,2022-07-18,CZK,Jihočeský kraj,Geis,vlak
-53,1053,2022-01-11,CZK,Plzeňský kraj,Pap Trutnov,vlak
-54,1054,2022-04-10,EUR,Jihomoravský kraj,Pap Trutnov,nákladní vozidlo
-55,1055,2022-07-26,EUR,Královehradecký kraj,Pap Trutnov,nákladní vozidlo
-56,1056,2022-07-19,CZK,Hlavní město Praha,Toptrans,vlak
-57,1057,2021-12-02,EUR,Středočeský kraj,Geis,kamion
-58,1058,2022-04-28,CZK,Jihomoravský kraj,Toptrans,kamion
-59,1059,2022-04-12,CZK,"Ústecký kraj,Vysočina",Spedquick Třebíč,kamion
-60,1060,2022-01-29,EUR,Jihomoravský kraj,Spedquick Třebíč,vlak
-61,1061,2022-04-27,CZK,Jihočeský kraj,GLS,nákladní vozidlo
-62,1062,2022-07-24,EUR,Středočeský kraj,Toptrans,vlak
-63,1063,2022-06-18,CZK,Středočeský kraj,Pap Trutnov,nákladní vozidlo
-64,1064,2022-09-21,CZK,Moravskoslezský kraj,Geis,kamion
-65,1065,2022-10-21,CZK,Liberecký kraj,Pap Trutnov,nákladní vozidlo
-66,1066,2022-09-03,CZK,"Ústecký kraj,Vysočina",Pap Trutnov,nákladní vozidlo
-67,1067,2021-11-26,EUR,Zlínský kraj,Geis,kamion
-68,1068,2022-03-27,CZK,Olomoucký kraj,Spedquick Třebíč,kamion
-69,1069,2022-03-28,EUR,Královehradecký kraj,Toptrans,kamion
-70,1070,2021-12-06,CZK,Hlavní město Praha,Spedquick Třebíč,kamion
-71,1071,2022-09-03,CZK,Středočeský kraj,Spedquick Třebíč,nákladní vozidlo
-72,1072,2022-07-25,CZK,Plzeňský kraj,Spedquick Třebíč,kamion
-73,1073,2022-02-05,CZK,Jihočeský kraj,Toptrans,kamion
-74,1074,2022-06-30,CZK,Středočeský kraj,Toptrans,nákladní vozidlo
-75,1075,2022-02-24,CZK,Moravskoslezský kraj,Geis,vlak
-76,1076,2022-04-28,EUR,Karlovarský kraj,Spedquick Třebíč,nákladní vozidlo
-77,1077,2022-01-31,CZK,Moravskoslezský kraj,Spedquick Třebíč,vlak
-78,1078,2022-07-19,CZK,Karlovarský kraj,Spedquick Třebíč,kamion
-79,1079,2021-12-15,CZK,Jihočeský kraj,Geis,nákladní vozidlo
-80,1080,2021-12-01,EUR,Karlovarský kraj,Pap Trutnov,vlak
-81,1081,2022-02-21,CZK,Jihočeský kraj,Spedquick Třebíč,vlak
-82,1082,2022-06-01,CZK,Karlovarský kraj,Geis,vlak
-83,1083,2021-12-14,CZK,Olomoucký kraj,Geis,kamion
-84,1084,2022-03-22,EUR,Jihomoravský kraj,Geis,kamion
-85,1085,2022-07-04,EUR,Olomoucký kraj,Spedquick Třebíč,nákladní vozidlo
-86,1086,2022-11-16,CZK,Moravskoslezský kraj,Spedquick Třebíč,kamion
-87,1087,2022-06-16,EUR,Olomoucký kraj,Pap Trutnov,kamion
-88,1088,2022-01-03,EUR,Moravskoslezský kraj,Pap Trutnov,kamion
-89,1089,2022-05-14,CZK,Středočeský kraj,GLS,kamion
-90,1090,2022-10-11,CZK,Olomoucký kraj,Spedquick Třebíč,nákladní vozidlo
-91,1091,2022-01-20,CZK,Jihočeský kraj,GLS,nákladní vozidlo
-92,1092,2022-07-09,EUR,Pardubický kraj,GLS,nákladní vozidlo
-93,1093,2022-07-02,CZK,Středočeský kraj,Toptrans,nákladní vozidlo
-94,1094,2021-12-10,EUR,Pardubický kraj,Geis,kamion
-95,1095,2022-05-20,CZK,Pardubický kraj,GLS,nákladní vozidlo
-96,1096,2022-05-22,EUR,Liberecký kraj,GLS,kamion
-97,1097,2022-04-26,CZK,Pardubický kraj,Spedquick Třebíč,nákladní vozidlo
-98,1098,2022-06-29,CZK,Pardubický kraj,GLS,kamion
-99,1099,2022-08-27,CZK,Jihočeský kraj,Geis,kamion
-100,1100,2021-11-21,EUR,Karlovarský kraj,GLS,kamion
-101,1101,2022-10-21,EUR,Středočeský kraj,Toptrans,vlak
-102,1102,2022-05-18,EUR,Moravskoslezský kraj,Geis,kamion
-103,1103,2022-08-19,EUR,"Ústecký kraj,Vysočina",Pap Trutnov,kamion
-104,1104,2022-09-09,EUR,Karlovarský kraj,Pap Trutnov,kamion
-105,1105,2022-08-12,EUR,Jihočeský kraj,Toptrans,kamion
-106,1106,2022-08-07,EUR,Liberecký kraj,GLS,nákladní vozidlo
-107,1107,2022-10-26,CZK,Jihomoravský kraj,Pap Trutnov,kamion
-108,1108,2022-05-21,CZK,Královehradecký kraj,Pap Trutnov,kamion
-109,1109,2021-11-23,EUR,Karlovarský kraj,GLS,vlak
-110,1110,2022-11-20,CZK,Liberecký kraj,Spedquick Třebíč,kamion
-111,1111,2022-05-18,CZK,Karlovarský kraj,Pap Trutnov,vlak
-112,1112,2022-07-12,EUR,Olomoucký kraj,Toptrans,kamion
-113,1113,2022-02-18,CZK,Pardubický kraj,GLS,vlak
-114,1114,2022-05-05,CZK,"Ústecký kraj,Vysočina",Spedquick Třebíč,nákladní vozidlo
-115,1115,2022-07-25,CZK,Plzeňský kraj,GLS,kamion
-116,1116,2022-09-22,EUR,Pardubický kraj,Geis,vlak
-117,1117,2021-12-15,CZK,Liberecký kraj,Pap Trutnov,kamion
-118,1118,2022-03-09,EUR,Jihomoravský kraj,Toptrans,vlak
-119,1119,2022-05-13,CZK,Královehradecký kraj,Spedquick Třebíč,kamion
-120,1120,2022-02-26,CZK,Moravskoslezský kraj,Toptrans,vlak
-121,1121,2022-02-02,CZK,Moravskoslezský kraj,GLS,kamion
-122,1122,2022-09-12,CZK,Karlovarský kraj,Geis,kamion
-123,1123,2022-01-23,EUR,Královehradecký kraj,Geis,kamion
-124,1124,2022-02-17,CZK,Hlavní město Praha,GLS,nákladní vozidlo
-125,1125,2022-05-04,CZK,Jihočeský kraj,GLS,kamion
-126,1126,2022-05-05,CZK,Hlavní město Praha,Pap Trutnov,kamion
-127,1127,2022-04-09,CZK,Jihočeský kraj,Geis,kamion
-128,1128,2021-12-29,CZK,Jihomoravský kraj,GLS,kamion
-129,1129,2022-08-15,EUR,Olomoucký kraj,Spedquick Třebíč,vlak
-130,1130,2022-10-19,CZK,Hlavní město Praha,Pap Trutnov,nákladní vozidlo
-131,1131,2022-06-14,EUR,Jihočeský kraj,Spedquick Třebíč,nákladní vozidlo
-132,1132,2022-08-04,EUR,Karlovarský kraj,Pap Trutnov,kamion
-133,1133,2022-01-29,CZK,Olomoucký kraj,Geis,nákladní vozidlo
-134,1134,2022-04-03,CZK,Liberecký kraj,Geis,vlak
-135,1135,2022-04-25,CZK,Královehradecký kraj,Pap Trutnov,nákladní vozidlo
-136,1136,2022-05-20,CZK,Zlínský kraj,Pap Trutnov,vlak
-137,1137,2022-11-08,CZK,Zlínský kraj,Toptrans,nákladní vozidlo
-138,1138,2022-08-27,EUR,Olomoucký kraj,Geis,vlak
-139,1139,2022-07-10,CZK,Jihomoravský kraj,Spedquick Třebíč,nákladní vozidlo
-140,1140,2022-11-09,CZK,Jihočeský kraj,Toptrans,nákladní vozidlo
-141,1141,2022-10-24,EUR,Karlovarský kraj,Spedquick Třebíč,kamion
-142,1142,2022-06-23,CZK,Jihočeský kraj,Toptrans,kamion
-143,1143,2022-04-02,CZK,"Ústecký kraj,Vysočina",GLS,nákladní vozidlo
-144,1144,2022-08-13,EUR,Středočeský kraj,Toptrans,nákladní vozidlo
-145,1145,2022-08-28,EUR,Moravskoslezský kraj,Toptrans,kamion
-146,1146,2022-06-25,EUR,"Ústecký kraj,Vysočina",Pap Trutnov,vlak
-147,1147,2022-11-09,EUR,Královehradecký kraj,Spedquick Třebíč,nákladní vozidlo
-148,1148,2022-09-02,EUR,Středočeský kraj,Pap Trutnov,vlak
-149,1149,2022-11-10,CZK,Liberecký kraj,Geis,vlak
-150,1150,2022-02-21,EUR,Olomoucký kraj,Geis,vlak
-151,1151,2022-03-30,CZK,Jihočeský kraj,GLS,vlak
-152,1152,2022-02-21,EUR,Pardubický kraj,Spedquick Třebíč,nákladní vozidlo
-153,1153,2022-03-17,EUR,Karlovarský kraj,Geis,vlak
-154,1154,2022-09-24,CZK,Plzeňský kraj,GLS,kamion
-155,1155,2022-01-14,CZK,Pardubický kraj,Pap Trutnov,kamion
-156,1156,2021-12-01,EUR,Pardubický kraj,Pap Trutnov,kamion
-157,1157,2022-04-15,CZK,Královehradecký kraj,Pap Trutnov,kamion
-158,1158,2022-01-29,CZK,Hlavní město Praha,GLS,kamion
-159,1159,2022-02-23,EUR,Středočeský kraj,Spedquick Třebíč,kamion
-160,1160,2022-05-11,CZK,Zlínský kraj,Toptrans,kamion
-161,1161,2021-12-21,CZK,Jihomoravský kraj,GLS,vlak
-162,1162,2021-11-21,EUR,Jihomoravský kraj,Spedquick Třebíč,kamion
-163,1163,2022-09-03,EUR,Královehradecký kraj,Pap Trutnov,nákladní vozidlo
-164,1164,2022-02-28,CZK,Zlínský kraj,Pap Trutnov,kamion
-165,1165,2022-05-01,EUR,Plzeňský kraj,Geis,nákladní vozidlo
-166,1166,2022-05-09,CZK,Středočeský kraj,Pap Trutnov,kamion
-167,1167,2022-08-21,CZK,Liberecký kraj,Pap Trutnov,nákladní vozidlo
-168,1168,2021-12-13,EUR,Hlavní město Praha,Toptrans,nákladní vozidlo
-169,1169,2022-06-08,EUR,Liberecký kraj,Pap Trutnov,nákladní vozidlo
-170,1170,2022-10-10,EUR,Moravskoslezský kraj,Geis,kamion
-171,1171,2022-06-01,EUR,Středočeský kraj,Spedquick Třebíč,kamion
-172,1172,2022-03-29,CZK,Středočeský kraj,Pap Trutnov,vlak
-173,1173,2021-11-30,EUR,Hlavní město Praha,Toptrans,kamion
-174,1174,2022-09-19,CZK,Středočeský kraj,Pap Trutnov,kamion
-175,1175,2021-11-25,CZK,Olomoucký kraj,Toptrans,kamion
-176,1176,2022-08-03,CZK,Moravskoslezský kraj,Spedquick Třebíč,nákladní vozidlo
-177,1177,2022-06-05,EUR,Olomoucký kraj,Geis,vlak
-178,1178,2022-10-04,CZK,Moravskoslezský kraj,Toptrans,nákladní vozidlo
-179,1179,2022-05-11,CZK,Karlovarský kraj,GLS,vlak
-180,1180,2022-03-12,CZK,Zlínský kraj,Pap Trutnov,kamion
-181,1181,2022-07-20,CZK,Zlínský kraj,Toptrans,nákladní vozidlo
-182,1182,2022-03-30,EUR,Středočeský kraj,GLS,kamion
-183,1183,2022-04-09,EUR,Jihomoravský kraj,Geis,vlak
-184,1184,2022-08-04,CZK,Plzeňský kraj,Pap Trutnov,nákladní vozidlo
-185,1185,2022-01-30,EUR,Pardubický kraj,Toptrans,vlak
-186,1186,2022-02-01,EUR,Středočeský kraj,Toptrans,kamion
-187,1187,2022-05-04,EUR,Plzeňský kraj,Toptrans,kamion
-188,1188,2022-01-13,CZK,Královehradecký kraj,Spedquick Třebíč,vlak
-189,1189,2022-02-26,EUR,Středočeský kraj,Pap Trutnov,kamion
-190,1190,2021-12-06,CZK,Královehradecký kraj,GLS,kamion
-191,1191,2022-02-22,EUR,Středočeský kraj,Pap Trutnov,nákladní vozidlo
-192,1192,2022-04-16,EUR,"Ústecký kraj,Vysočina",Spedquick Třebíč,vlak
-193,1193,2022-04-11,EUR,Hlavní město Praha,Pap Trutnov,kamion
-194,1194,2022-02-07,CZK,Moravskoslezský kraj,Spedquick Třebíč,nákladní vozidlo
-195,1195,2022-10-16,CZK,Pardubický kraj,Toptrans,kamion
-196,1196,2022-03-31,CZK,Plzeňský kraj,GLS,nákladní vozidlo
-197,1197,2022-09-09,EUR,"Ústecký kraj,Vysočina",Pap Trutnov,kamion
-198,1198,2022-10-25,CZK,Moravskoslezský kraj,Pap Trutnov,kamion
-199,1199,2022-11-02,CZK,Pardubický kraj,Pap Trutnov,vlak
-200,1200,2022-02-27,CZK,Zlínský kraj,Toptrans,vlak
-201,1201,2022-10-23,CZK,Karlovarský kraj,Geis,kamion
-202,1202,2022-08-05,EUR,Plzeňský kraj,Pap Trutnov,kamion
-203,1203,2022-01-04,EUR,Olomoucký kraj,Spedquick Třebíč,kamion
-204,1204,2022-02-03,EUR,Karlovarský kraj,Toptrans,vlak
-205,1205,2022-10-15,CZK,Královehradecký kraj,Geis,vlak
-206,1206,2022-01-29,CZK,Karlovarský kraj,Geis,kamion
-207,1207,2022-08-28,CZK,Plzeňský kraj,Pap Trutnov,vlak
-208,1208,2022-08-29,EUR,Pardubický kraj,Spedquick Třebíč,kamion
-209,1209,2022-07-31,EUR,Plzeňský kraj,Spedquick Třebíč,kamion
-210,1210,2022-02-22,EUR,Pardubický kraj,Pap Trutnov,kamion
-211,1211,2022-07-22,CZK,Olomoucký kraj,Toptrans,nákladní vozidlo
-212,1212,2022-06-08,CZK,Plzeňský kraj,Geis,vlak
-213,1213,2022-11-15,EUR,Plzeňský kraj,Toptrans,kamion
-214,1214,2022-09-30,EUR,Jihočeský kraj,Pap Trutnov,vlak
-215,1215,2022-05-23,EUR,Středočeský kraj,Pap Trutnov,kamion
-216,1216,2022-02-11,CZK,Karlovarský kraj,Geis,kamion
-217,1217,2022-07-08,EUR,Zlínský kraj,Pap Trutnov,vlak
-218,1218,2022-06-09,CZK,Karlovarský kraj,Spedquick Třebíč,kamion
-219,1219,2021-12-27,EUR,Jihočeský kraj,Toptrans,kamion
-220,1220,2022-05-18,CZK,Královehradecký kraj,Geis,nákladní vozidlo
-221,1221,2022-04-24,CZK,Karlovarský kraj,Toptrans,nákladní vozidlo
-222,1222,2022-03-12,CZK,Pardubický kraj,Spedquick Třebíč,nákladní vozidlo
-223,1223,2022-05-21,CZK,Karlovarský kraj,Spedquick Třebíč,kamion
-224,1224,2022-03-03,EUR,Královehradecký kraj,Geis,kamion
-225,1225,2022-06-17,CZK,Pardubický kraj,Toptrans,kamion
-226,1226,2022-11-12,EUR,Jihomoravský kraj,Spedquick Třebíč,nákladní vozidlo
-227,1227,2021-12-14,EUR,Jihomoravský kraj,GLS,kamion
-228,1228,2022-06-25,CZK,Hlavní město Praha,GLS,kamion
-229,1229,2022-01-21,CZK,Liberecký kraj,Pap Trutnov,kamion
-230,1230,2022-10-20,EUR,Karlovarský kraj,GLS,kamion
-231,1231,2022-06-29,CZK,Hlavní město Praha,Pap Trutnov,vlak
-232,1232,2022-07-06,CZK,Olomoucký kraj,Pap Trutnov,vlak
-233,1233,2022-06-02,CZK,Zlínský kraj,Geis,kamion
-234,1234,2022-05-05,CZK,Zlínský kraj,GLS,nákladní vozidlo
-235,1235,2022-06-23,EUR,Olomoucký kraj,GLS,kamion
-236,1236,2022-07-24,CZK,Moravskoslezský kraj,Pap Trutnov,kamion
-237,1237,2022-01-26,EUR,Pardubický kraj,GLS,kamion
-238,1238,2022-10-28,CZK,Moravskoslezský kraj,Spedquick Třebíč,nákladní vozidlo
-239,1239,2021-11-26,CZK,Královehradecký kraj,Pap Trutnov,kamion
-240,1240,2022-04-08,EUR,Plzeňský kraj,Toptrans,nákladní vozidlo
-241,1241,2022-08-25,EUR,Pardubický kraj,Pap Trutnov,vlak
-242,1242,2022-11-06,EUR,Zlínský kraj,GLS,nákladní vozidlo
-243,1243,2021-11-24,CZK,Středočeský kraj,GLS,nákladní vozidlo
-244,1244,2022-07-09,CZK,Jihočeský kraj,Geis,vlak
-245,1245,2022-06-20,CZK,Královehradecký kraj,Pap Trutnov,vlak
-246,1246,2022-05-15,CZK,"Ústecký kraj,Vysočina",Toptrans,kamion
-247,1247,2022-03-25,CZK,Královehradecký kraj,Toptrans,nákladní vozidlo
-248,1248,2022-10-25,EUR,Plzeňský kraj,GLS,kamion
-249,1249,2022-04-26,CZK,"Ústecký kraj,Vysočina",Geis,kamion
-250,1250,2022-03-23,CZK,Jihočeský kraj,Pap Trutnov,kamion
-251,1251,2022-06-03,CZK,Zlínský kraj,Toptrans,kamion
-252,1252,2022-10-12,CZK,Moravskoslezský kraj,GLS,nákladní vozidlo
-253,1253,2022-08-04,EUR,Zlínský kraj,Toptrans,kamion
-254,1254,2021-12-21,CZK,Zlínský kraj,Toptrans,nákladní vozidlo
-255,1255,2022-02-08,EUR,Olomoucký kraj,Geis,kamion
-256,1256,2022-09-13,CZK,Liberecký kraj,Toptrans,vlak
-257,1257,2022-08-10,EUR,"Ústecký kraj,Vysočina",Pap Trutnov,kamion
-258,1258,2022-03-11,CZK,Královehradecký kraj,Spedquick Třebíč,kamion
-259,1259,2022-08-10,CZK,Zlínský kraj,Toptrans,kamion
-260,1260,2022-10-06,CZK,Hlavní město Praha,Toptrans,nákladní vozidlo
-261,1261,2022-10-21,CZK,Karlovarský kraj,Geis,kamion
-262,1262,2022-08-22,CZK,Jihočeský kraj,Toptrans,kamion
-263,1263,2021-12-22,CZK,Olomoucký kraj,Pap Trutnov,nákladní vozidlo
-264,1264,2022-10-19,CZK,Hlavní město Praha,Geis,nákladní vozidlo
-265,1265,2022-03-28,EUR,Středočeský kraj,Geis,vlak
-266,1266,2022-09-27,CZK,Pardubický kraj,Geis,kamion
-267,1267,2022-10-05,EUR,Liberecký kraj,Toptrans,vlak
-268,1268,2022-10-14,CZK,Zlínský kraj,Pap Trutnov,nákladní vozidlo
-269,1269,2022-09-24,EUR,Plzeňský kraj,GLS,vlak
-270,1270,2022-08-14,EUR,Liberecký kraj,GLS,nákladní vozidlo
-271,1271,2022-07-20,CZK,Karlovarský kraj,Pap Trutnov,vlak
-272,1272,2022-06-28,CZK,Pardubický kraj,Pap Trutnov,nákladní vozidlo
-273,1273,2022-10-31,EUR,Hlavní město Praha,Pap Trutnov,vlak
-274,1274,2022-11-21,EUR,Karlovarský kraj,GLS,vlak
-275,1275,2022-03-18,CZK,"Ústecký kraj,Vysočina",Pap Trutnov,nákladní vozidlo
-276,1276,2022-03-02,EUR,Hlavní město Praha,Spedquick Třebíč,vlak
-277,1277,2021-12-24,CZK,Pardubický kraj,Spedquick Třebíč,kamion
-278,1278,2022-10-06,CZK,Karlovarský kraj,Spedquick Třebíč,kamion
-279,1279,2022-04-02,EUR,Hlavní město Praha,GLS,nákladní vozidlo
-280,1280,2022-11-12,CZK,Zlínský kraj,Geis,nákladní vozidlo
-281,1281,2022-03-25,EUR,Středočeský kraj,Spedquick Třebíč,vlak
-282,1282,2022-06-29,EUR,Plzeňský kraj,Toptrans,vlak
-283,1283,2022-09-01,CZK,Karlovarský kraj,Spedquick Třebíč,vlak
-284,1284,2021-12-19,CZK,Moravskoslezský kraj,GLS,nákladní vozidlo
-285,1285,2022-08-08,CZK,Jihomoravský kraj,Toptrans,nákladní vozidlo
-286,1286,2022-07-01,CZK,Zlínský kraj,Toptrans,nákladní vozidlo
-287,1287,2021-12-29,EUR,Karlovarský kraj,Geis,nákladní vozidlo
-288,1288,2022-05-30,CZK,Hlavní město Praha,Geis,vlak
-289,1289,2022-07-17,EUR,Karlovarský kraj,Pap Trutnov,vlak
-290,1290,2022-06-25,EUR,Zlínský kraj,Pap Trutnov,vlak
-291,1291,2022-04-01,EUR,Středočeský kraj,Spedquick Třebíč,vlak
-292,1292,2022-07-17,CZK,Zlínský kraj,Pap Trutnov,nákladní vozidlo
-293,1293,2021-11-29,CZK,Plzeňský kraj,Toptrans,nákladní vozidlo
-294,1294,2022-05-26,CZK,Jihomoravský kraj,Pap Trutnov,vlak
-295,1295,2022-10-07,EUR,Zlínský kraj,Pap Trutnov,vlak
-296,1296,2022-06-01,CZK,Moravskoslezský kraj,Pap Trutnov,nákladní vozidlo
-297,1297,2022-10-08,EUR,Středočeský kraj,Toptrans,vlak
-298,1298,2021-12-23,CZK,Moravskoslezský kraj,Toptrans,kamion
-299,1299,2022-02-15,EUR,Karlovarský kraj,Pap Trutnov,vlak
-300,1300,2022-02-17,CZK,Jihočeský kraj,Geis,nákladní vozidlo
-301,1301,2022-08-15,CZK,Karlovarský kraj,Geis,nákladní vozidlo
-302,1302,2022-01-30,EUR,"Ústecký kraj,Vysočina",Toptrans,kamion
-303,1303,2022-09-19,EUR,Zlínský kraj,Toptrans,kamion
-304,1304,2022-10-02,CZK,Olomoucký kraj,GLS,kamion
-305,1305,2022-08-06,EUR,Jihomoravský kraj,GLS,nákladní vozidlo
-306,1306,2022-01-12,CZK,Pardubický kraj,Geis,kamion
-307,1307,2022-06-07,EUR,Plzeňský kraj,GLS,nákladní vozidlo
-308,1308,2022-09-14,EUR,Zlínský kraj,GLS,nákladní vozidlo
-309,1309,2022-03-26,EUR,Karlovarský kraj,Spedquick Třebíč,nákladní vozidlo
-310,1310,2022-06-01,CZK,Liberecký kraj,Pap Trutnov,vlak
-311,1311,2021-11-28,CZK,Středočeský kraj,Pap Trutnov,kamion
-312,1312,2022-06-06,EUR,Karlovarský kraj,GLS,nákladní vozidlo
-313,1313,2022-07-17,CZK,Královehradecký kraj,Geis,vlak
-314,1314,2022-08-09,CZK,Středočeský kraj,Geis,vlak
-315,1315,2022-10-31,CZK,"Ústecký kraj,Vysočina",Toptrans,vlak
-316,1316,2022-10-13,CZK,Jihomoravský kraj,Geis,kamion
-317,1317,2021-12-11,CZK,"Ústecký kraj,Vysočina",Toptrans,kamion
-318,1318,2022-09-20,CZK,Pardubický kraj,Geis,vlak
-319,1319,2022-09-30,CZK,Jihočeský kraj,Spedquick Třebíč,nákladní vozidlo
-320,1320,2022-07-20,EUR,Hlavní město Praha,GLS,vlak
-321,1321,2022-10-25,EUR,Moravskoslezský kraj,Geis,nákladní vozidlo
-322,1322,2022-01-20,EUR,Středočeský kraj,Pap Trutnov,nákladní vozidlo
-323,1323,2022-11-12,EUR,Jihomoravský kraj,Toptrans,kamion
-324,1324,2022-03-03,EUR,Jihočeský kraj,GLS,kamion
-325,1325,2022-01-08,EUR,Královehradecký kraj,Spedquick Třebíč,nákladní vozidlo
-326,1326,2021-12-17,CZK,Jihomoravský kraj,Spedquick Třebíč,vlak
-327,1327,2022-05-30,CZK,Zlínský kraj,Toptrans,kamion
-328,1328,2021-12-15,EUR,Plzeňský kraj,Toptrans,nákladní vozidlo
-329,1329,2022-08-23,CZK,Hlavní město Praha,Pap Trutnov,vlak
-330,1330,2022-07-16,CZK,Pardubický kraj,Geis,kamion
-331,1331,2022-10-16,CZK,Liberecký kraj,Spedquick Třebíč,kamion
-332,1332,2022-09-09,EUR,Pardubický kraj,Toptrans,kamion
-333,1333,2022-03-12,CZK,Středočeský kraj,Spedquick Třebíč,kamion
-334,1334,2022-02-23,EUR,Pardubický kraj,Pap Trutnov,vlak
-335,1335,2022-05-01,EUR,Královehradecký kraj,Toptrans,vlak
-336,1336,2021-12-18,CZK,Liberecký kraj,Pap Trutnov,kamion
-337,1337,2022-04-05,CZK,Středočeský kraj,Spedquick Třebíč,vlak
-338,1338,2022-06-24,EUR,Moravskoslezský kraj,Pap Trutnov,nákladní vozidlo
-339,1339,2022-08-14,EUR,Pardubický kraj,GLS,nákladní vozidlo
-340,1340,2022-04-26,CZK,Liberecký kraj,Pap Trutnov,kamion
-341,1341,2022-02-23,CZK,Královehradecký kraj,GLS,kamion
-342,1342,2022-08-04,CZK,Moravskoslezský kraj,GLS,kamion
-343,1343,2022-08-18,CZK,Zlínský kraj,Geis,nákladní vozidlo
-344,1344,2022-05-11,CZK,Liberecký kraj,Spedquick Třebíč,vlak
-345,1345,2022-09-07,EUR,Jihočeský kraj,GLS,nákladní vozidlo
-346,1346,2022-09-06,CZK,Plzeňský kraj,GLS,vlak
-347,1347,2022-02-03,EUR,Olomoucký kraj,Geis,nákladní vozidlo
-348,1348,2022-08-28,EUR,Jihomoravský kraj,Spedquick Třebíč,kamion
-349,1349,2022-08-30,EUR,Olomoucký kraj,Toptrans,kamion
-350,1350,2021-12-27,CZK,Pardubický kraj,Geis,vlak
-351,1351,2021-12-27,CZK,Plzeňský kraj,Toptrans,vlak
-352,1352,2022-09-30,EUR,Moravskoslezský kraj,Spedquick Třebíč,vlak
-353,1353,2022-06-29,CZK,Jihomoravský kraj,Toptrans,kamion
-354,1354,2021-12-12,CZK,Plzeňský kraj,Pap Trutnov,vlak
-355,1355,2022-05-15,CZK,Jihočeský kraj,GLS,vlak
-356,1356,2022-06-09,CZK,Středočeský kraj,GLS,kamion
-357,1357,2022-03-15,EUR,Moravskoslezský kraj,GLS,kamion
-358,1358,2022-01-08,CZK,Liberecký kraj,Geis,vlak
-359,1359,2022-11-16,EUR,Královehradecký kraj,Geis,nákladní vozidlo
-360,1360,2022-05-18,EUR,Liberecký kraj,Geis,vlak
-361,1361,2021-12-04,EUR,Olomoucký kraj,Spedquick Třebíč,kamion
-362,1362,2022-07-30,EUR,"Ústecký kraj,Vysočina",Geis,vlak
-363,1363,2022-07-27,CZK,Olomoucký kraj,Toptrans,kamion
-364,1364,2021-12-27,CZK,Královehradecký kraj,Geis,kamion
-365,1365,2022-10-01,EUR,Karlovarský kraj,Spedquick Třebíč,nákladní vozidlo
-366,1366,2022-01-24,EUR,Zlínský kraj,Toptrans,nákladní vozidlo
-367,1367,2022-03-16,CZK,Pardubický kraj,Toptrans,nákladní vozidlo
-368,1368,2022-08-23,CZK,Středočeský kraj,GLS,nákladní vozidlo
-369,1369,2022-03-14,CZK,Jihočeský kraj,Spedquick Třebíč,nákladní vozidlo
-370,1370,2022-05-15,EUR,Olomoucký kraj,Geis,kamion
-371,1371,2022-02-18,EUR,Karlovarský kraj,Spedquick Třebíč,kamion
-372,1372,2022-08-04,CZK,Karlovarský kraj,Spedquick Třebíč,kamion
-373,1373,2022-03-01,EUR,Liberecký kraj,GLS,vlak
-374,1374,2021-12-17,EUR,Karlovarský kraj,Spedquick Třebíč,vlak
-375,1375,2021-12-26,CZK,Moravskoslezský kraj,Toptrans,vlak
-376,1376,2022-07-11,EUR,Karlovarský kraj,Geis,kamion
-377,1377,2022-03-10,CZK,Hlavní město Praha,GLS,kamion
-378,1378,2022-06-06,CZK,"Ústecký kraj,Vysočina",Spedquick Třebíč,nákladní vozidlo
-379,1379,2022-06-19,EUR,Moravskoslezský kraj,Pap Trutnov,nákladní vozidlo
-380,1380,2022-04-29,CZK,Moravskoslezský kraj,Toptrans,nákladní vozidlo
-381,1381,2022-11-01,CZK,Jihočeský kraj,Spedquick Třebíč,vlak
-382,1382,2022-10-17,CZK,Hlavní město Praha,Geis,vlak
-383,1383,2022-03-28,EUR,Středočeský kraj,Pap Trutnov,kamion
-384,1384,2022-06-26,EUR,"Ústecký kraj,Vysočina",Geis,kamion
-385,1385,2022-11-09,CZK,"Ústecký kraj,Vysočina",Toptrans,nákladní vozidlo
-386,1386,2022-08-03,CZK,Pardubický kraj,Spedquick Třebíč,kamion
-387,1387,2022-04-26,CZK,Karlovarský kraj,GLS,kamion
-388,1388,2022-03-08,EUR,Olomoucký kraj,Geis,kamion
-389,1389,2022-01-17,CZK,Karlovarský kraj,Toptrans,vlak
-390,1390,2022-10-16,CZK,Jihomoravský kraj,Pap Trutnov,nákladní vozidlo
-391,1391,2022-08-07,CZK,Královehradecký kraj,Pap Trutnov,kamion
-392,1392,2022-03-28,CZK,Karlovarský kraj,Geis,vlak
-393,1393,2021-12-30,CZK,Středočeský kraj,Pap Trutnov,kamion
-394,1394,2022-06-29,EUR,Liberecký kraj,Pap Trutnov,nákladní vozidlo
-395,1395,2022-07-25,EUR,"Ústecký kraj,Vysočina",Pap Trutnov,kamion
-396,1396,2022-09-29,EUR,Královehradecký kraj,Pap Trutnov,vlak
-397,1397,2022-07-09,EUR,Moravskoslezský kraj,Toptrans,vlak
-398,1398,2022-01-23,EUR,Královehradecký kraj,Toptrans,vlak
-399,1399,2022-01-22,CZK,Plzeňský kraj,Geis,kamion
-400,1400,2022-06-25,CZK,Karlovarský kraj,Pap Trutnov,vlak
-401,1401,2022-06-27,CZK,Zlínský kraj,Geis,vlak
-402,1402,2022-07-20,EUR,Jihomoravský kraj,Geis,kamion
-403,1403,2021-12-20,EUR,Královehradecký kraj,Spedquick Třebíč,kamion
-404,1404,2022-01-25,CZK,Liberecký kraj,Spedquick Třebíč,vlak
-405,1405,2022-09-22,EUR,Plzeňský kraj,Spedquick Třebíč,kamion
-406,1406,2022-10-20,CZK,Středočeský kraj,Toptrans,kamion
-407,1407,2022-01-20,EUR,Liberecký kraj,Pap Trutnov,vlak
-408,1408,2022-07-18,CZK,Hlavní město Praha,Pap Trutnov,kamion
-409,1409,2022-02-27,CZK,Zlínský kraj,Toptrans,vlak
-410,1410,2022-09-10,CZK,Moravskoslezský kraj,Toptrans,vlak
-411,1411,2022-08-24,EUR,Pardubický kraj,Geis,vlak
-412,1412,2022-07-16,EUR,Liberecký kraj,Pap Trutnov,vlak
-413,1413,2022-01-07,EUR,Olomoucký kraj,Spedquick Třebíč,kamion
-414,1414,2022-10-31,EUR,Pardubický kraj,GLS,vlak
-415,1415,2022-04-20,CZK,"Ústecký kraj,Vysočina",GLS,nákladní vozidlo
-416,1416,2022-09-30,EUR,"Ústecký kraj,Vysočina",GLS,vlak
-417,1417,2022-01-03,EUR,Olomoucký kraj,Toptrans,nákladní vozidlo
-418,1418,2022-01-13,EUR,Královehradecký kraj,Geis,vlak
-419,1419,2022-01-04,CZK,Jihomoravský kraj,Pap Trutnov,vlak
-420,1420,2022-08-23,CZK,Moravskoslezský kraj,GLS,vlak
-421,1421,2022-02-14,CZK,Královehradecký kraj,Spedquick Třebíč,kamion
-422,1422,2022-05-19,CZK,Jihočeský kraj,GLS,vlak
-423,1423,2022-10-29,CZK,Jihočeský kraj,Geis,kamion
-424,1424,2022-02-20,CZK,Olomoucký kraj,Geis,vlak
-425,1425,2022-06-09,EUR,"Ústecký kraj,Vysočina",Geis,vlak
-426,1426,2022-09-18,EUR,Plzeňský kraj,Pap Trutnov,kamion
-427,1427,2022-02-24,CZK,Karlovarský kraj,GLS,kamion
-428,1428,2022-04-06,EUR,Středočeský kraj,Spedquick Třebíč,kamion
-429,1429,2021-12-04,EUR,Jihočeský kraj,Toptrans,nákladní vozidlo
-430,1430,2022-06-23,CZK,Karlovarský kraj,GLS,vlak
-431,1431,2022-04-02,EUR,Karlovarský kraj,Toptrans,kamion
-432,1432,2022-06-27,CZK,Olomoucký kraj,Geis,vlak
-433,1433,2022-03-20,CZK,Středočeský kraj,Toptrans,vlak
-434,1434,2022-05-21,CZK,Liberecký kraj,Toptrans,vlak
-435,1435,2022-01-11,EUR,Jihomoravský kraj,GLS,vlak
-436,1436,2021-12-22,CZK,Karlovarský kraj,Pap Trutnov,kamion
-437,1437,2021-12-28,CZK,Karlovarský kraj,Spedquick Třebíč,kamion
-438,1438,2022-01-11,EUR,Královehradecký kraj,GLS,nákladní vozidlo
-439,1439,2021-12-14,CZK,Jihomoravský kraj,GLS,kamion
-440,1440,2022-05-21,EUR,Pardubický kraj,GLS,vlak
-441,1441,2022-01-19,CZK,Olomoucký kraj,GLS,vlak
-442,1442,2022-03-13,CZK,Pardubický kraj,Spedquick Třebíč,nákladní vozidlo
-443,1443,2022-01-12,CZK,Pardubický kraj,Geis,vlak
-444,1444,2022-09-18,CZK,Hlavní město Praha,GLS,kamion
-445,1445,2022-10-14,CZK,"Ústecký kraj,Vysočina",Geis,nákladní vozidlo
-446,1446,2022-04-17,CZK,Jihomoravský kraj,Toptrans,vlak
-447,1447,2022-09-28,CZK,Hlavní město Praha,Pap Trutnov,kamion
-448,1448,2022-02-13,CZK,Liberecký kraj,Toptrans,nákladní vozidlo
-449,1449,2022-04-29,EUR,Jihomoravský kraj,Toptrans,nákladní vozidlo
-450,1450,2022-05-18,CZK,Moravskoslezský kraj,Spedquick Třebíč,kamion
-451,1451,2022-05-18,CZK,Zlínský kraj,Geis,kamion
-452,1452,2022-01-22,CZK,Středočeský kraj,GLS,nákladní vozidlo
-453,1453,2022-03-21,EUR,"Ústecký kraj,Vysočina",Geis,vlak
-454,1454,2022-04-27,CZK,Pardubický kraj,Geis,kamion
-455,1455,2022-04-06,CZK,Hlavní město Praha,Toptrans,kamion
-456,1456,2022-08-29,CZK,Středočeský kraj,Spedquick Třebíč,kamion
-457,1457,2022-04-13,EUR,Zlínský kraj,Toptrans,kamion
-458,1458,2022-03-26,EUR,Hlavní město Praha,Spedquick Třebíč,kamion
-459,1459,2022-11-07,CZK,Hlavní město Praha,Spedquick Třebíč,nákladní vozidlo
-460,1460,2021-12-27,CZK,Liberecký kraj,GLS,vlak
-461,1461,2022-03-31,CZK,Jihočeský kraj,Geis,kamion
-462,1462,2022-04-02,EUR,Liberecký kraj,Spedquick Třebíč,nákladní vozidlo
-463,1463,2021-12-04,CZK,Hlavní město Praha,GLS,vlak
-464,1464,2022-11-17,EUR,Královehradecký kraj,Spedquick Třebíč,vlak
-465,1465,2022-03-01,EUR,Liberecký kraj,Pap Trutnov,vlak
-466,1466,2022-06-08,EUR,Karlovarský kraj,Pap Trutnov,vlak
-467,1467,2022-09-10,EUR,Moravskoslezský kraj,Spedquick Třebíč,kamion
-468,1468,2022-07-26,EUR,Královehradecký kraj,Spedquick Třebíč,kamion
-469,1469,2022-01-28,CZK,Plzeňský kraj,Geis,nákladní vozidlo
-470,1470,2022-06-09,CZK,Hlavní město Praha,Toptrans,vlak
-471,1471,2022-07-09,CZK,Moravskoslezský kraj,Spedquick Třebíč,vlak
-472,1472,2021-12-12,EUR,Plzeňský kraj,GLS,vlak
-473,1473,2021-12-21,CZK,Moravskoslezský kraj,Pap Trutnov,vlak
-474,1474,2022-08-06,CZK,Zlínský kraj,Spedquick Třebíč,nákladní vozidlo
-475,1475,2021-12-02,EUR,Karlovarský kraj,Pap Trutnov,kamion
-476,1476,2022-04-17,EUR,Olomoucký kraj,Toptrans,kamion
-477,1477,2022-10-15,CZK,Liberecký kraj,Geis,nákladní vozidlo
-478,1478,2022-09-23,CZK,"Ústecký kraj,Vysočina",GLS,nákladní vozidlo
-479,1479,2022-09-15,EUR,"Ústecký kraj,Vysočina",Spedquick Třebíč,nákladní vozidlo
-480,1480,2022-11-12,CZK,Liberecký kraj,Geis,nákladní vozidlo
-481,1481,2022-01-04,EUR,"Ústecký kraj,Vysočina",Toptrans,nákladní vozidlo
-482,1482,2022-01-06,CZK,Moravskoslezský kraj,Spedquick Třebíč,kamion
-483,1483,2022-01-30,EUR,Karlovarský kraj,Pap Trutnov,nákladní vozidlo
-484,1484,2022-09-29,CZK,Jihomoravský kraj,Pap Trutnov,nákladní vozidlo
-485,1485,2022-10-10,EUR,Karlovarský kraj,Spedquick Třebíč,nákladní vozidlo
-486,1486,2022-07-28,EUR,Pardubický kraj,GLS,vlak
-487,1487,2022-04-29,EUR,Zlínský kraj,Toptrans,kamion
-488,1488,2022-08-12,CZK,Středočeský kraj,Spedquick Třebíč,nákladní vozidlo
-489,1489,2022-10-15,EUR,Karlovarský kraj,GLS,nákladní vozidlo
-490,1490,2022-05-02,CZK,Královehradecký kraj,Spedquick Třebíč,kamion
-491,1491,2022-06-01,CZK,Zlínský kraj,Geis,kamion
-492,1492,2022-08-08,EUR,Zlínský kraj,Toptrans,vlak
-493,1493,2022-01-13,EUR,Středočeský kraj,Pap Trutnov,nákladní vozidlo
-494,1494,2022-11-16,EUR,Středočeský kraj,GLS,nákladní vozidlo
-495,1495,2022-02-02,CZK,Zlínský kraj,Toptrans,kamion
-496,1496,2022-03-16,CZK,Středočeský kraj,Pap Trutnov,nákladní vozidlo
-497,1497,2022-06-11,CZK,"Ústecký kraj,Vysočina",Toptrans,nákladní vozidlo
-498,1498,2021-12-29,EUR,Jihočeský kraj,Geis,vlak
-499,1499,2022-05-06,CZK,Pardubický kraj,Geis,kamion
+,Transit ID,Datum,Měna,Region,Region ID,Poslytovatel dopravy,Doprava,Pohonné hmoty,Typ skladu,Zaměstnanec
+0,1000,2022-07-30,CZK,"Ústecký kraj,Vysočina",1,Geis,kamion,natural95,centrální,Daniel Podach
+1,1001,2022-04-04,CZK,Moravskoslezský kraj,1,Geis,kamion,natural95,centrální,Daniel Podach
+2,1002,2022-09-19,EUR,Liberecký kraj,0,Toptrans,kamion,natural95,tranzitní,Jiří Zeman
+3,1003,2022-09-15,CZK,Hlavní město Praha,0,Spedquick Třebíč,vlak,natural95,regionální,Jiří Zeman
+4,1004,2022-09-29,CZK,Liberecký kraj,11,Pap Trutnov,vlak,natural95,regionální,Karel Barel
+5,1005,2022-06-16,CZK,Olomoucký kraj,5,Spedquick Třebíč,vlak,diesel,tranzitní,Daniel Podach
+6,1006,2022-07-06,EUR,Moravskoslezský kraj,6,Geis,vlak,natural95,centrální,Daniel Podach
+7,1007,2022-08-25,CZK,Královehradecký kraj,10,Spedquick Třebíč,nákladní vozidlo,natural95,regionální,Jiří Zeman
+8,1008,2022-10-15,EUR,Olomoucký kraj,2,GLS,vlak,natural95,tranzitní,Josef Vošouch
+9,1009,2022-03-30,EUR,Jihomoravský kraj,8,Geis,nákladní vozidlo,natural95,regionální,Jiří Zeman
+10,1010,2022-08-04,CZK,Karlovarský kraj,2,Spedquick Třebíč,kamion,diesel,tranzitní,Josef Vošouch
+11,1011,2022-10-23,EUR,Moravskoslezský kraj,0,Spedquick Třebíč,nákladní vozidlo,natural95,centrální,Josef Vošouch
+12,1012,2022-10-26,EUR,Zlínský kraj,5,Geis,nákladní vozidlo,natural95,regionální,Karel Barel
+13,1013,2022-06-30,CZK,Královehradecký kraj,7,Toptrans,vlak,natural95,tranzitní,Daniel Podach
+14,1014,2022-04-10,CZK,Pardubický kraj,5,GLS,nákladní vozidlo,diesel,regionální,Josef Vošouch
+15,1015,2022-09-12,EUR,Plzeňský kraj,1,Toptrans,kamion,natural95,tranzitní,Jan Novák
+16,1016,2022-06-08,CZK,Liberecký kraj,5,Spedquick Třebíč,nákladní vozidlo,natural95,centrální,Jan Novák
+17,1017,2022-03-26,CZK,Plzeňský kraj,1,Geis,vlak,diesel,regionální,Daniel Podach
+18,1018,2022-08-13,CZK,Jihočeský kraj,2,GLS,nákladní vozidlo,diesel,regionální,Jan Novák
+19,1019,2022-07-23,EUR,Zlínský kraj,5,Toptrans,nákladní vozidlo,diesel,centrální,Josef Vošouch
+20,1020,2022-03-16,EUR,Hlavní město Praha,4,Pap Trutnov,nákladní vozidlo,diesel,tranzitní,Daniel Podach
+21,1021,2022-03-13,EUR,Hlavní město Praha,7,Spedquick Třebíč,kamion,natural95,regionální,Karel Barel
+22,1022,2022-03-31,EUR,Středočeský kraj,5,Geis,vlak,natural95,tranzitní,Jan Novák
+23,1023,2022-03-18,EUR,Plzeňský kraj,6,Geis,vlak,diesel,tranzitní,Daniel Podach
+24,1024,2022-07-25,EUR,Pardubický kraj,3,GLS,kamion,natural95,regionální,Karel Barel
+25,1025,2022-04-22,CZK,Moravskoslezský kraj,11,Spedquick Třebíč,kamion,natural95,regionální,Josef Vošouch
+26,1026,2022-08-30,CZK,Královehradecký kraj,7,Geis,kamion,natural95,regionální,Daniel Podach
+27,1027,2021-12-18,CZK,Zlínský kraj,5,Spedquick Třebíč,kamion,natural95,tranzitní,Karel Barel
+28,1028,2022-09-21,EUR,Liberecký kraj,3,Pap Trutnov,kamion,diesel,centrální,Jiří Zeman
+29,1029,2022-09-03,CZK,Moravskoslezský kraj,7,Pap Trutnov,kamion,natural95,regionální,Jiří Zeman
+30,1030,2022-08-04,CZK,Jihomoravský kraj,1,Spedquick Třebíč,vlak,natural95,regionální,Jan Novák
+31,1031,2022-08-13,EUR,Moravskoslezský kraj,9,GLS,kamion,diesel,tranzitní,Karel Barel
+32,1032,2021-12-31,CZK,Moravskoslezský kraj,11,GLS,nákladní vozidlo,natural95,regionální,Jan Novák
+33,1033,2022-02-09,EUR,Olomoucký kraj,10,Pap Trutnov,vlak,natural95,regionální,Karel Barel
+34,1034,2022-11-22,CZK,Hlavní město Praha,0,GLS,kamion,diesel,regionální,Daniel Podach
+35,1035,2022-01-07,CZK,Pardubický kraj,5,Spedquick Třebíč,kamion,natural95,tranzitní,Karel Barel
+36,1036,2022-05-03,EUR,Hlavní město Praha,1,GLS,nákladní vozidlo,natural95,regionální,Jiří Zeman
+37,1037,2022-05-27,CZK,Jihočeský kraj,4,Pap Trutnov,vlak,natural95,tranzitní,Jiří Zeman
+38,1038,2022-06-13,EUR,Hlavní město Praha,1,Geis,vlak,natural95,centrální,Josef Vošouch
+39,1039,2022-02-27,EUR,Karlovarský kraj,11,Toptrans,vlak,natural95,centrální,Daniel Podach
+40,1040,2022-03-26,CZK,Královehradecký kraj,12,Spedquick Třebíč,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+41,1041,2021-11-27,EUR,Liberecký kraj,8,Spedquick Třebíč,vlak,natural95,regionální,Jan Novák
+42,1042,2022-07-21,EUR,Liberecký kraj,10,Spedquick Třebíč,vlak,natural95,tranzitní,Jan Novák
+43,1043,2022-01-25,CZK,Plzeňský kraj,2,GLS,nákladní vozidlo,natural95,centrální,Daniel Podach
+44,1044,2022-07-06,CZK,Pardubický kraj,5,Geis,vlak,natural95,centrální,Jan Novák
+45,1045,2022-04-11,EUR,Královehradecký kraj,8,Spedquick Třebíč,nákladní vozidlo,natural95,regionální,Karel Barel
+46,1046,2022-10-30,EUR,Královehradecký kraj,3,Toptrans,vlak,diesel,centrální,Jan Novák
+47,1047,2022-11-02,CZK,Hlavní město Praha,10,GLS,kamion,diesel,tranzitní,Josef Vošouch
+48,1048,2022-02-28,CZK,Královehradecký kraj,9,Pap Trutnov,nákladní vozidlo,diesel,centrální,Karel Barel
+49,1049,2022-03-07,CZK,Středočeský kraj,0,GLS,nákladní vozidlo,diesel,tranzitní,Jan Novák
+50,1050,2022-09-07,EUR,Plzeňský kraj,4,Pap Trutnov,vlak,diesel,tranzitní,Karel Barel
+51,1051,2022-02-15,CZK,Plzeňský kraj,8,Spedquick Třebíč,nákladní vozidlo,diesel,centrální,Karel Barel
+52,1052,2022-08-13,EUR,Olomoucký kraj,12,Toptrans,kamion,natural95,regionální,Daniel Podach
+53,1053,2022-01-03,CZK,Jihomoravský kraj,1,GLS,nákladní vozidlo,natural95,centrální,Josef Vošouch
+54,1054,2022-10-08,CZK,Moravskoslezský kraj,8,Spedquick Třebíč,kamion,diesel,centrální,Josef Vošouch
+55,1055,2022-08-29,CZK,Jihočeský kraj,6,Toptrans,kamion,natural95,regionální,Jan Novák
+56,1056,2022-01-09,CZK,Plzeňský kraj,1,Geis,vlak,diesel,tranzitní,Daniel Podach
+57,1057,2022-06-30,CZK,Královehradecký kraj,4,GLS,vlak,diesel,centrální,Jiří Zeman
+58,1058,2022-05-12,CZK,Královehradecký kraj,11,GLS,kamion,diesel,tranzitní,Jiří Zeman
+59,1059,2022-10-14,CZK,Středočeský kraj,0,Spedquick Třebíč,kamion,natural95,tranzitní,Karel Barel
+60,1060,2022-06-03,EUR,Karlovarský kraj,3,Geis,nákladní vozidlo,natural95,regionální,Jan Novák
+61,1061,2022-07-30,CZK,Zlínský kraj,10,Toptrans,vlak,natural95,regionální,Jiří Zeman
+62,1062,2022-02-16,CZK,Liberecký kraj,10,Toptrans,nákladní vozidlo,natural95,centrální,Daniel Podach
+63,1063,2022-09-29,CZK,Pardubický kraj,6,Geis,vlak,natural95,tranzitní,Karel Barel
+64,1064,2022-08-09,EUR,Zlínský kraj,0,Spedquick Třebíč,kamion,natural95,regionální,Karel Barel
+65,1065,2022-02-15,EUR,Jihočeský kraj,0,GLS,kamion,natural95,tranzitní,Jiří Zeman
+66,1066,2022-08-20,EUR,"Ústecký kraj,Vysočina",5,Toptrans,nákladní vozidlo,diesel,centrální,Jan Novák
+67,1067,2022-05-18,CZK,Jihočeský kraj,2,GLS,vlak,diesel,regionální,Josef Vošouch
+68,1068,2021-12-24,CZK,Karlovarský kraj,11,Geis,kamion,natural95,tranzitní,Jan Novák
+69,1069,2021-11-23,CZK,Hlavní město Praha,0,Geis,vlak,natural95,centrální,Josef Vošouch
+70,1070,2022-11-09,CZK,Královehradecký kraj,9,Pap Trutnov,kamion,diesel,tranzitní,Karel Barel
+71,1071,2022-04-23,EUR,Liberecký kraj,2,Spedquick Třebíč,kamion,natural95,regionální,Jan Novák
+72,1072,2022-04-30,CZK,Hlavní město Praha,0,Pap Trutnov,nákladní vozidlo,diesel,centrální,Jiří Zeman
+73,1073,2022-02-05,EUR,Pardubický kraj,6,Spedquick Třebíč,kamion,diesel,centrální,Jiří Zeman
+74,1074,2022-02-12,CZK,Olomoucký kraj,5,Toptrans,nákladní vozidlo,diesel,regionální,Jiří Zeman
+75,1075,2022-01-24,CZK,Hlavní město Praha,11,Geis,kamion,natural95,tranzitní,Daniel Podach
+76,1076,2022-06-14,CZK,Plzeňský kraj,8,Geis,kamion,natural95,regionální,Karel Barel
+77,1077,2022-03-27,EUR,Středočeský kraj,7,Toptrans,vlak,natural95,tranzitní,Karel Barel
+78,1078,2022-07-08,EUR,Jihomoravský kraj,7,GLS,nákladní vozidlo,diesel,regionální,Karel Barel
+79,1079,2022-10-10,CZK,Středočeský kraj,0,Toptrans,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+80,1080,2022-07-16,CZK,Jihomoravský kraj,1,Pap Trutnov,kamion,diesel,regionální,Josef Vošouch
+81,1081,2022-10-13,EUR,Moravskoslezský kraj,10,Toptrans,kamion,diesel,centrální,Daniel Podach
+82,1082,2022-01-18,EUR,Liberecký kraj,12,Geis,vlak,diesel,centrální,Jiří Zeman
+83,1083,2022-06-19,EUR,Moravskoslezský kraj,4,GLS,nákladní vozidlo,natural95,centrální,Karel Barel
+84,1084,2022-08-21,CZK,Královehradecký kraj,11,Pap Trutnov,nákladní vozidlo,diesel,centrální,Karel Barel
+85,1085,2022-06-03,CZK,Plzeňský kraj,7,Toptrans,kamion,diesel,regionální,Jan Novák
+86,1086,2022-10-11,EUR,Liberecký kraj,0,Toptrans,kamion,diesel,tranzitní,Josef Vošouch
+87,1087,2022-09-04,EUR,"Ústecký kraj,Vysočina",7,Geis,kamion,natural95,tranzitní,Jan Novák
+88,1088,2021-12-05,EUR,Liberecký kraj,2,Pap Trutnov,kamion,natural95,centrální,Jan Novák
+89,1089,2022-10-18,EUR,Hlavní město Praha,9,Geis,vlak,natural95,tranzitní,Daniel Podach
+90,1090,2022-10-06,EUR,Hlavní město Praha,2,Toptrans,nákladní vozidlo,diesel,regionální,Karel Barel
+91,1091,2022-04-08,EUR,Plzeňský kraj,10,GLS,nákladní vozidlo,natural95,centrální,Karel Barel
+92,1092,2022-01-05,CZK,Liberecký kraj,2,Toptrans,vlak,natural95,tranzitní,Josef Vošouch
+93,1093,2021-11-26,EUR,Olomoucký kraj,0,Pap Trutnov,kamion,natural95,tranzitní,Jiří Zeman
+94,1094,2022-10-10,EUR,Jihomoravský kraj,0,GLS,kamion,diesel,tranzitní,Jiří Zeman
+95,1095,2022-05-15,CZK,Plzeňský kraj,2,Geis,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+96,1096,2022-04-04,EUR,Středočeský kraj,4,Geis,vlak,natural95,centrální,Daniel Podach
+97,1097,2022-08-24,CZK,Olomoucký kraj,10,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Jan Novák
+98,1098,2022-06-21,CZK,Jihočeský kraj,2,GLS,kamion,natural95,centrální,Josef Vošouch
+99,1099,2022-08-28,CZK,Královehradecký kraj,12,Geis,nákladní vozidlo,natural95,regionální,Josef Vošouch
+100,1100,2022-01-08,EUR,Hlavní město Praha,10,Toptrans,kamion,natural95,centrální,Jan Novák
+101,1101,2022-05-13,CZK,Královehradecký kraj,3,Geis,vlak,natural95,centrální,Karel Barel
+102,1102,2022-07-30,EUR,Pardubický kraj,12,Spedquick Třebíč,kamion,natural95,regionální,Jan Novák
+103,1103,2022-05-01,EUR,Karlovarský kraj,10,GLS,vlak,natural95,centrální,Karel Barel
+104,1104,2022-08-30,EUR,Moravskoslezský kraj,12,Geis,vlak,diesel,regionální,Karel Barel
+105,1105,2022-05-31,EUR,Jihomoravský kraj,9,Spedquick Třebíč,nákladní vozidlo,natural95,regionální,Jan Novák
+106,1106,2022-03-30,EUR,Moravskoslezský kraj,4,Spedquick Třebíč,vlak,natural95,tranzitní,Karel Barel
+107,1107,2022-05-09,CZK,Jihomoravský kraj,5,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+108,1108,2022-03-09,EUR,Zlínský kraj,8,Geis,kamion,natural95,centrální,Josef Vošouch
+109,1109,2021-12-01,CZK,Zlínský kraj,10,Toptrans,nákladní vozidlo,natural95,regionální,Karel Barel
+110,1110,2022-02-03,CZK,"Ústecký kraj,Vysočina",9,Pap Trutnov,nákladní vozidlo,natural95,regionální,Jiří Zeman
+111,1111,2021-12-17,CZK,Královehradecký kraj,0,Geis,nákladní vozidlo,diesel,regionální,Jiří Zeman
+112,1112,2022-08-27,EUR,Karlovarský kraj,3,GLS,kamion,natural95,tranzitní,Karel Barel
+113,1113,2022-11-06,EUR,Jihočeský kraj,11,GLS,nákladní vozidlo,natural95,regionální,Daniel Podach
+114,1114,2022-05-01,EUR,Olomoucký kraj,12,Pap Trutnov,kamion,natural95,centrální,Jan Novák
+115,1115,2022-03-29,EUR,Plzeňský kraj,5,Toptrans,vlak,natural95,tranzitní,Karel Barel
+116,1116,2022-02-04,CZK,Karlovarský kraj,10,Geis,kamion,diesel,tranzitní,Karel Barel
+117,1117,2022-06-20,CZK,Pardubický kraj,6,Pap Trutnov,vlak,natural95,regionální,Josef Vošouch
+118,1118,2022-02-08,CZK,Moravskoslezský kraj,6,Toptrans,nákladní vozidlo,diesel,tranzitní,Jan Novák
+119,1119,2022-06-25,CZK,Jihomoravský kraj,0,Geis,kamion,diesel,regionální,Karel Barel
+120,1120,2022-09-24,EUR,Jihočeský kraj,0,Toptrans,kamion,natural95,centrální,Josef Vošouch
+121,1121,2022-05-24,CZK,Středočeský kraj,6,Toptrans,nákladní vozidlo,diesel,regionální,Jiří Zeman
+122,1122,2022-04-30,CZK,Liberecký kraj,11,Toptrans,kamion,natural95,centrální,Jiří Zeman
+123,1123,2022-01-26,CZK,Pardubický kraj,2,Spedquick Třebíč,nákladní vozidlo,natural95,regionální,Josef Vošouch
+124,1124,2022-05-02,CZK,Liberecký kraj,3,Pap Trutnov,kamion,diesel,centrální,Jan Novák
+125,1125,2022-01-08,EUR,Liberecký kraj,5,Pap Trutnov,nákladní vozidlo,natural95,centrální,Jiří Zeman
+126,1126,2021-12-04,CZK,"Ústecký kraj,Vysočina",12,Toptrans,kamion,diesel,regionální,Daniel Podach
+127,1127,2022-01-17,CZK,"Ústecký kraj,Vysočina",12,GLS,nákladní vozidlo,natural95,tranzitní,Karel Barel
+128,1128,2022-09-12,CZK,Zlínský kraj,3,GLS,kamion,diesel,tranzitní,Jiří Zeman
+129,1129,2022-04-11,CZK,Plzeňský kraj,3,Spedquick Třebíč,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+130,1130,2022-07-15,CZK,Zlínský kraj,7,GLS,nákladní vozidlo,diesel,tranzitní,Daniel Podach
+131,1131,2022-10-22,CZK,Zlínský kraj,5,Geis,kamion,diesel,tranzitní,Jiří Zeman
+132,1132,2021-12-19,CZK,Hlavní město Praha,0,Geis,vlak,natural95,centrální,Josef Vošouch
+133,1133,2022-07-22,EUR,Zlínský kraj,9,Spedquick Třebíč,nákladní vozidlo,diesel,regionální,Karel Barel
+134,1134,2022-08-10,CZK,Pardubický kraj,2,Toptrans,kamion,diesel,tranzitní,Jan Novák
+135,1135,2022-09-04,EUR,Pardubický kraj,6,Geis,kamion,diesel,tranzitní,Josef Vošouch
+136,1136,2022-04-14,CZK,"Ústecký kraj,Vysočina",6,Toptrans,vlak,diesel,regionální,Jiří Zeman
+137,1137,2021-12-31,CZK,Hlavní město Praha,5,Pap Trutnov,nákladní vozidlo,natural95,centrální,Josef Vošouch
+138,1138,2022-01-23,EUR,Jihočeský kraj,3,Pap Trutnov,kamion,natural95,regionální,Daniel Podach
+139,1139,2022-02-11,EUR,Jihomoravský kraj,0,Pap Trutnov,nákladní vozidlo,diesel,centrální,Jiří Zeman
+140,1140,2022-08-21,EUR,Plzeňský kraj,6,Spedquick Třebíč,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+141,1141,2022-11-15,CZK,Jihočeský kraj,4,Pap Trutnov,nákladní vozidlo,diesel,tranzitní,Jan Novák
+142,1142,2022-08-13,CZK,Středočeský kraj,11,GLS,kamion,natural95,regionální,Daniel Podach
+143,1143,2022-11-21,CZK,Moravskoslezský kraj,4,Spedquick Třebíč,kamion,diesel,regionální,Josef Vošouch
+144,1144,2022-07-04,CZK,Zlínský kraj,1,Pap Trutnov,kamion,natural95,regionální,Jiří Zeman
+145,1145,2022-09-01,CZK,Středočeský kraj,10,Pap Trutnov,vlak,natural95,regionální,Karel Barel
+146,1146,2022-04-30,EUR,Středočeský kraj,11,Spedquick Třebíč,nákladní vozidlo,natural95,tranzitní,Jan Novák
+147,1147,2022-02-16,CZK,Hlavní město Praha,10,Geis,kamion,diesel,tranzitní,Karel Barel
+148,1148,2022-04-22,CZK,Olomoucký kraj,6,Spedquick Třebíč,kamion,diesel,regionální,Karel Barel
+149,1149,2022-10-18,CZK,Moravskoslezský kraj,1,Geis,vlak,diesel,tranzitní,Jan Novák
+150,1150,2022-04-15,EUR,Jihočeský kraj,4,Geis,kamion,diesel,tranzitní,Jiří Zeman
+151,1151,2022-03-25,CZK,Plzeňský kraj,9,Toptrans,nákladní vozidlo,diesel,tranzitní,Jiří Zeman
+152,1152,2022-04-09,CZK,Liberecký kraj,11,Toptrans,kamion,diesel,regionální,Jiří Zeman
+153,1153,2021-12-16,EUR,Liberecký kraj,3,GLS,kamion,diesel,tranzitní,Jan Novák
+154,1154,2021-12-23,EUR,Olomoucký kraj,5,Toptrans,nákladní vozidlo,natural95,regionální,Karel Barel
+155,1155,2022-10-15,EUR,Zlínský kraj,12,GLS,vlak,natural95,centrální,Josef Vošouch
+156,1156,2022-08-16,CZK,Karlovarský kraj,5,Pap Trutnov,kamion,natural95,regionální,Daniel Podach
+157,1157,2022-03-02,EUR,Královehradecký kraj,0,Toptrans,kamion,diesel,tranzitní,Josef Vošouch
+158,1158,2022-01-09,EUR,Jihomoravský kraj,2,GLS,kamion,natural95,regionální,Daniel Podach
+159,1159,2022-09-08,EUR,Olomoucký kraj,11,Pap Trutnov,vlak,natural95,tranzitní,Jan Novák
+160,1160,2022-03-11,EUR,Pardubický kraj,7,Pap Trutnov,kamion,diesel,tranzitní,Daniel Podach
+161,1161,2022-03-19,EUR,Královehradecký kraj,6,GLS,nákladní vozidlo,diesel,tranzitní,Karel Barel
+162,1162,2022-10-27,EUR,Karlovarský kraj,10,Geis,kamion,diesel,tranzitní,Jiří Zeman
+163,1163,2022-09-04,CZK,Jihočeský kraj,10,Toptrans,nákladní vozidlo,natural95,centrální,Josef Vošouch
+164,1164,2022-01-11,EUR,Pardubický kraj,4,Spedquick Třebíč,vlak,diesel,centrální,Daniel Podach
+165,1165,2022-05-29,CZK,Moravskoslezský kraj,0,GLS,vlak,natural95,centrální,Daniel Podach
+166,1166,2022-08-10,CZK,Královehradecký kraj,0,Toptrans,nákladní vozidlo,diesel,regionální,Jan Novák
+167,1167,2022-09-14,EUR,Moravskoslezský kraj,1,GLS,kamion,natural95,tranzitní,Daniel Podach
+168,1168,2022-06-15,CZK,Středočeský kraj,4,Geis,kamion,diesel,tranzitní,Karel Barel
+169,1169,2022-05-02,EUR,Pardubický kraj,11,Geis,nákladní vozidlo,natural95,centrální,Josef Vošouch
+170,1170,2022-06-15,EUR,Zlínský kraj,1,GLS,vlak,diesel,tranzitní,Jan Novák
+171,1171,2022-07-27,CZK,Středočeský kraj,6,Spedquick Třebíč,kamion,diesel,regionální,Jiří Zeman
+172,1172,2021-12-28,CZK,Liberecký kraj,7,Pap Trutnov,vlak,natural95,centrální,Jan Novák
+173,1173,2022-04-24,CZK,Moravskoslezský kraj,8,Spedquick Třebíč,nákladní vozidlo,diesel,regionální,Jiří Zeman
+174,1174,2021-12-25,EUR,Jihočeský kraj,2,Toptrans,kamion,diesel,centrální,Jiří Zeman
+175,1175,2022-08-13,EUR,Hlavní město Praha,3,Pap Trutnov,kamion,diesel,tranzitní,Jan Novák
+176,1176,2021-12-01,CZK,Pardubický kraj,5,Geis,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+177,1177,2022-04-26,CZK,Jihomoravský kraj,10,Toptrans,kamion,natural95,centrální,Daniel Podach
+178,1178,2022-10-26,EUR,Zlínský kraj,12,Pap Trutnov,vlak,diesel,tranzitní,Josef Vošouch
+179,1179,2022-01-22,CZK,Plzeňský kraj,3,Pap Trutnov,vlak,natural95,tranzitní,Daniel Podach
+180,1180,2022-08-02,CZK,Jihočeský kraj,3,Pap Trutnov,nákladní vozidlo,natural95,regionální,Karel Barel
+181,1181,2022-06-22,EUR,Karlovarský kraj,5,Geis,vlak,diesel,centrální,Karel Barel
+182,1182,2021-11-26,CZK,Liberecký kraj,5,Geis,nákladní vozidlo,natural95,tranzitní,Karel Barel
+183,1183,2022-08-06,CZK,Středočeský kraj,5,Pap Trutnov,kamion,diesel,tranzitní,Jan Novák
+184,1184,2021-12-31,CZK,Zlínský kraj,4,Toptrans,vlak,natural95,regionální,Jan Novák
+185,1185,2022-08-01,CZK,Liberecký kraj,11,Pap Trutnov,vlak,natural95,tranzitní,Daniel Podach
+186,1186,2022-09-30,CZK,"Ústecký kraj,Vysočina",12,Toptrans,nákladní vozidlo,diesel,regionální,Daniel Podach
+187,1187,2022-02-28,CZK,Hlavní město Praha,7,Pap Trutnov,vlak,natural95,tranzitní,Karel Barel
+188,1188,2022-05-16,CZK,Liberecký kraj,12,Spedquick Třebíč,kamion,natural95,regionální,Josef Vošouch
+189,1189,2022-07-02,EUR,Zlínský kraj,7,Geis,kamion,diesel,tranzitní,Jan Novák
+190,1190,2022-04-18,EUR,Jihočeský kraj,2,Spedquick Třebíč,vlak,diesel,tranzitní,Jan Novák
+191,1191,2022-10-09,EUR,Jihomoravský kraj,7,Toptrans,vlak,natural95,regionální,Jan Novák
+192,1192,2022-09-09,CZK,Plzeňský kraj,12,Geis,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+193,1193,2021-12-15,CZK,"Ústecký kraj,Vysočina",0,Pap Trutnov,kamion,diesel,regionální,Daniel Podach
+194,1194,2022-05-29,EUR,Jihočeský kraj,12,Geis,kamion,diesel,tranzitní,Karel Barel
+195,1195,2022-10-20,CZK,"Ústecký kraj,Vysočina",8,Toptrans,kamion,diesel,regionální,Josef Vošouch
+196,1196,2022-09-03,EUR,Karlovarský kraj,8,Geis,kamion,diesel,tranzitní,Jan Novák
+197,1197,2022-03-29,CZK,Karlovarský kraj,4,GLS,kamion,natural95,tranzitní,Daniel Podach
+198,1198,2022-09-09,CZK,Olomoucký kraj,3,GLS,nákladní vozidlo,natural95,centrální,Karel Barel
+199,1199,2022-11-08,CZK,Jihomoravský kraj,7,Toptrans,nákladní vozidlo,diesel,tranzitní,Karel Barel
+200,1200,2022-04-15,EUR,Liberecký kraj,4,GLS,kamion,diesel,regionální,Josef Vošouch
+201,1201,2022-06-08,CZK,Karlovarský kraj,4,Spedquick Třebíč,kamion,natural95,centrální,Jan Novák
+202,1202,2022-07-14,CZK,Liberecký kraj,4,Pap Trutnov,kamion,natural95,regionální,Karel Barel
+203,1203,2022-02-18,CZK,Středočeský kraj,7,Geis,kamion,natural95,centrální,Karel Barel
+204,1204,2022-07-07,EUR,Liberecký kraj,8,Pap Trutnov,kamion,diesel,tranzitní,Karel Barel
+205,1205,2022-03-30,CZK,Hlavní město Praha,2,GLS,nákladní vozidlo,natural95,regionální,Karel Barel
+206,1206,2022-08-18,CZK,Karlovarský kraj,11,Toptrans,kamion,diesel,regionální,Daniel Podach
+207,1207,2022-11-11,CZK,Královehradecký kraj,12,Pap Trutnov,nákladní vozidlo,diesel,tranzitní,Jan Novák
+208,1208,2022-09-04,CZK,Moravskoslezský kraj,10,Pap Trutnov,vlak,diesel,regionální,Josef Vošouch
+209,1209,2021-12-04,EUR,Liberecký kraj,11,Spedquick Třebíč,vlak,natural95,tranzitní,Jiří Zeman
+210,1210,2022-05-03,CZK,Jihočeský kraj,12,Pap Trutnov,nákladní vozidlo,diesel,tranzitní,Jan Novák
+211,1211,2022-11-01,CZK,Královehradecký kraj,0,GLS,vlak,natural95,centrální,Jiří Zeman
+212,1212,2022-02-26,CZK,Liberecký kraj,6,Toptrans,kamion,natural95,tranzitní,Josef Vošouch
+213,1213,2022-01-17,EUR,Liberecký kraj,8,GLS,kamion,diesel,tranzitní,Jan Novák
+214,1214,2021-12-29,EUR,"Ústecký kraj,Vysočina",5,Pap Trutnov,kamion,natural95,regionální,Daniel Podach
+215,1215,2022-05-04,EUR,Jihočeský kraj,9,Pap Trutnov,nákladní vozidlo,diesel,regionální,Jiří Zeman
+216,1216,2022-04-10,EUR,Plzeňský kraj,9,GLS,kamion,natural95,centrální,Daniel Podach
+217,1217,2022-01-24,EUR,Královehradecký kraj,9,Spedquick Třebíč,vlak,diesel,regionální,Jiří Zeman
+218,1218,2022-10-17,EUR,Karlovarský kraj,11,Toptrans,nákladní vozidlo,diesel,regionální,Jiří Zeman
+219,1219,2022-09-06,CZK,Středočeský kraj,0,Geis,nákladní vozidlo,natural95,tranzitní,Josef Vošouch
+220,1220,2022-07-20,EUR,Plzeňský kraj,4,Spedquick Třebíč,kamion,natural95,regionální,Jiří Zeman
+221,1221,2022-02-09,CZK,"Ústecký kraj,Vysočina",10,Geis,vlak,diesel,regionální,Jiří Zeman
+222,1222,2022-01-23,CZK,Středočeský kraj,11,Spedquick Třebíč,vlak,diesel,centrální,Josef Vošouch
+223,1223,2022-06-28,CZK,Olomoucký kraj,8,Pap Trutnov,vlak,natural95,regionální,Karel Barel
+224,1224,2022-11-14,CZK,Středočeský kraj,8,Toptrans,nákladní vozidlo,natural95,tranzitní,Josef Vošouch
+225,1225,2022-10-16,CZK,Moravskoslezský kraj,6,Geis,kamion,natural95,regionální,Karel Barel
+226,1226,2022-07-27,EUR,Pardubický kraj,8,Pap Trutnov,nákladní vozidlo,diesel,regionální,Josef Vošouch
+227,1227,2022-08-01,EUR,Olomoucký kraj,3,Pap Trutnov,nákladní vozidlo,natural95,centrální,Jan Novák
+228,1228,2021-12-13,CZK,Středočeský kraj,6,GLS,kamion,natural95,tranzitní,Josef Vošouch
+229,1229,2022-06-27,EUR,Olomoucký kraj,10,Toptrans,kamion,diesel,centrální,Karel Barel
+230,1230,2022-08-10,CZK,Královehradecký kraj,12,Pap Trutnov,vlak,natural95,tranzitní,Karel Barel
+231,1231,2022-09-08,EUR,Středočeský kraj,0,Toptrans,kamion,diesel,tranzitní,Jiří Zeman
+232,1232,2022-01-21,CZK,Liberecký kraj,0,Geis,vlak,natural95,tranzitní,Daniel Podach
+233,1233,2022-10-19,CZK,Pardubický kraj,8,GLS,nákladní vozidlo,natural95,tranzitní,Jan Novák
+234,1234,2022-06-30,EUR,Zlínský kraj,12,Spedquick Třebíč,vlak,natural95,centrální,Karel Barel
+235,1235,2022-01-20,CZK,Moravskoslezský kraj,9,Pap Trutnov,kamion,diesel,centrální,Karel Barel
+236,1236,2022-01-21,CZK,Pardubický kraj,1,Pap Trutnov,nákladní vozidlo,diesel,regionální,Daniel Podach
+237,1237,2022-02-27,CZK,Zlínský kraj,5,Toptrans,kamion,natural95,centrální,Karel Barel
+238,1238,2022-02-06,CZK,Středočeský kraj,1,GLS,kamion,natural95,regionální,Jan Novák
+239,1239,2022-04-03,CZK,Pardubický kraj,2,Pap Trutnov,kamion,diesel,centrální,Karel Barel
+240,1240,2022-02-17,CZK,Liberecký kraj,11,Geis,vlak,diesel,tranzitní,Daniel Podach
+241,1241,2022-08-11,CZK,Plzeňský kraj,12,Toptrans,vlak,natural95,tranzitní,Jan Novák
+242,1242,2022-08-16,CZK,"Ústecký kraj,Vysočina",0,Geis,kamion,natural95,centrální,Jan Novák
+243,1243,2022-09-24,CZK,Královehradecký kraj,0,Spedquick Třebíč,kamion,natural95,regionální,Josef Vošouch
+244,1244,2022-01-17,CZK,Jihočeský kraj,5,Toptrans,kamion,natural95,centrální,Jan Novák
+245,1245,2022-03-12,EUR,Středočeský kraj,0,Spedquick Třebíč,kamion,diesel,tranzitní,Daniel Podach
+246,1246,2022-01-27,EUR,Pardubický kraj,8,Toptrans,kamion,diesel,tranzitní,Daniel Podach
+247,1247,2022-06-10,CZK,Pardubický kraj,7,Geis,nákladní vozidlo,natural95,regionální,Jan Novák
+248,1248,2022-07-31,CZK,Pardubický kraj,8,Pap Trutnov,nákladní vozidlo,diesel,centrální,Karel Barel
+249,1249,2022-02-02,CZK,Zlínský kraj,9,Toptrans,vlak,diesel,centrální,Karel Barel
+250,1250,2022-09-21,CZK,Liberecký kraj,7,Geis,nákladní vozidlo,natural95,tranzitní,Jan Novák
+251,1251,2022-09-07,CZK,Plzeňský kraj,4,Toptrans,nákladní vozidlo,natural95,centrální,Jan Novák
+252,1252,2022-10-26,CZK,Moravskoslezský kraj,12,Pap Trutnov,vlak,diesel,regionální,Josef Vošouch
+253,1253,2022-02-20,CZK,Královehradecký kraj,8,Spedquick Třebíč,kamion,diesel,tranzitní,Jiří Zeman
+254,1254,2022-02-08,CZK,Jihočeský kraj,6,Toptrans,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+255,1255,2022-01-25,EUR,Středočeský kraj,11,Geis,vlak,natural95,regionální,Karel Barel
+256,1256,2021-12-19,EUR,Plzeňský kraj,7,Pap Trutnov,nákladní vozidlo,natural95,regionální,Daniel Podach
+257,1257,2022-11-10,EUR,Plzeňský kraj,9,GLS,vlak,diesel,centrální,Daniel Podach
+258,1258,2022-03-29,EUR,Liberecký kraj,6,Pap Trutnov,kamion,natural95,tranzitní,Jan Novák
+259,1259,2022-03-17,CZK,Jihočeský kraj,9,Pap Trutnov,vlak,diesel,tranzitní,Daniel Podach
+260,1260,2022-09-10,EUR,Středočeský kraj,3,Spedquick Třebíč,vlak,diesel,tranzitní,Karel Barel
+261,1261,2022-09-18,CZK,"Ústecký kraj,Vysočina",7,Pap Trutnov,kamion,diesel,centrální,Daniel Podach
+262,1262,2022-10-22,EUR,Olomoucký kraj,6,Toptrans,vlak,diesel,regionální,Jiří Zeman
+263,1263,2022-07-15,CZK,Olomoucký kraj,9,Spedquick Třebíč,nákladní vozidlo,natural95,centrální,Jiří Zeman
+264,1264,2022-11-19,EUR,Moravskoslezský kraj,0,Pap Trutnov,nákladní vozidlo,diesel,centrální,Daniel Podach
+265,1265,2022-04-29,EUR,"Ústecký kraj,Vysočina",10,Pap Trutnov,nákladní vozidlo,diesel,centrální,Jan Novák
+266,1266,2022-03-07,CZK,Plzeňský kraj,4,Spedquick Třebíč,kamion,natural95,centrální,Jiří Zeman
+267,1267,2022-03-29,EUR,Moravskoslezský kraj,3,Toptrans,kamion,diesel,centrální,Jan Novák
+268,1268,2022-01-11,CZK,"Ústecký kraj,Vysočina",12,Spedquick Třebíč,vlak,natural95,centrální,Daniel Podach
+269,1269,2022-03-26,CZK,Středočeský kraj,8,Toptrans,nákladní vozidlo,diesel,centrální,Daniel Podach
+270,1270,2021-12-29,CZK,Hlavní město Praha,7,GLS,kamion,natural95,regionální,Daniel Podach
+271,1271,2022-02-04,EUR,Hlavní město Praha,10,GLS,kamion,natural95,regionální,Jan Novák
+272,1272,2022-03-24,CZK,Jihomoravský kraj,4,Spedquick Třebíč,kamion,natural95,centrální,Jan Novák
+273,1273,2022-04-15,CZK,Zlínský kraj,4,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+274,1274,2022-03-27,CZK,Středočeský kraj,10,GLS,vlak,diesel,centrální,Jiří Zeman
+275,1275,2022-04-17,CZK,Jihočeský kraj,7,GLS,vlak,natural95,regionální,Daniel Podach
+276,1276,2022-06-27,EUR,Moravskoslezský kraj,10,Geis,vlak,natural95,tranzitní,Karel Barel
+277,1277,2022-01-11,CZK,Liberecký kraj,10,Geis,nákladní vozidlo,natural95,centrální,Daniel Podach
+278,1278,2022-03-13,EUR,Královehradecký kraj,0,Geis,vlak,diesel,tranzitní,Jiří Zeman
+279,1279,2022-08-06,CZK,Olomoucký kraj,9,Pap Trutnov,vlak,diesel,centrální,Josef Vošouch
+280,1280,2022-11-10,EUR,Jihomoravský kraj,0,Geis,kamion,natural95,regionální,Daniel Podach
+281,1281,2022-03-22,CZK,Olomoucký kraj,11,GLS,nákladní vozidlo,natural95,tranzitní,Karel Barel
+282,1282,2022-02-17,EUR,Liberecký kraj,12,Geis,kamion,natural95,centrální,Josef Vošouch
+283,1283,2022-06-06,CZK,Zlínský kraj,12,Spedquick Třebíč,vlak,diesel,centrální,Josef Vošouch
+284,1284,2021-11-27,EUR,Karlovarský kraj,7,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+285,1285,2022-11-12,EUR,Karlovarský kraj,1,Spedquick Třebíč,kamion,natural95,regionální,Jan Novák
+286,1286,2022-10-14,EUR,Moravskoslezský kraj,9,Geis,nákladní vozidlo,natural95,centrální,Karel Barel
+287,1287,2022-10-28,EUR,Pardubický kraj,12,Geis,vlak,diesel,centrální,Jiří Zeman
+288,1288,2022-05-26,CZK,Plzeňský kraj,3,Toptrans,kamion,natural95,tranzitní,Daniel Podach
+289,1289,2022-06-01,EUR,Moravskoslezský kraj,12,GLS,vlak,natural95,regionální,Karel Barel
+290,1290,2022-05-11,EUR,Jihomoravský kraj,9,GLS,kamion,natural95,centrální,Jiří Zeman
+291,1291,2022-06-16,EUR,Liberecký kraj,5,Pap Trutnov,nákladní vozidlo,natural95,centrální,Jiří Zeman
+292,1292,2022-07-18,EUR,Hlavní město Praha,9,Spedquick Třebíč,nákladní vozidlo,diesel,regionální,Karel Barel
+293,1293,2022-11-02,CZK,Plzeňský kraj,7,Pap Trutnov,kamion,natural95,regionální,Daniel Podach
+294,1294,2022-05-08,CZK,Královehradecký kraj,3,Pap Trutnov,kamion,natural95,tranzitní,Jiří Zeman
+295,1295,2022-04-14,EUR,Jihočeský kraj,5,Spedquick Třebíč,kamion,diesel,tranzitní,Josef Vošouch
+296,1296,2022-05-06,EUR,Plzeňský kraj,1,Pap Trutnov,kamion,diesel,tranzitní,Daniel Podach
+297,1297,2022-01-08,CZK,Moravskoslezský kraj,11,Spedquick Třebíč,kamion,natural95,tranzitní,Jiří Zeman
+298,1298,2022-03-02,CZK,Jihomoravský kraj,10,GLS,kamion,natural95,centrální,Daniel Podach
+299,1299,2022-01-20,CZK,Středočeský kraj,6,Spedquick Třebíč,kamion,diesel,regionální,Jiří Zeman
+300,1300,2022-01-23,CZK,Moravskoslezský kraj,10,Toptrans,kamion,natural95,tranzitní,Daniel Podach
+301,1301,2022-03-07,CZK,Karlovarský kraj,5,GLS,nákladní vozidlo,diesel,centrální,Jan Novák
+302,1302,2022-09-22,CZK,Hlavní město Praha,7,GLS,vlak,diesel,regionální,Josef Vošouch
+303,1303,2022-08-28,CZK,Karlovarský kraj,2,Toptrans,kamion,diesel,tranzitní,Jan Novák
+304,1304,2022-10-09,CZK,Moravskoslezský kraj,10,GLS,kamion,natural95,centrální,Daniel Podach
+305,1305,2022-09-27,EUR,Moravskoslezský kraj,8,Spedquick Třebíč,nákladní vozidlo,natural95,centrální,Daniel Podach
+306,1306,2022-04-15,CZK,Liberecký kraj,0,GLS,vlak,diesel,tranzitní,Jiří Zeman
+307,1307,2022-10-02,EUR,Jihočeský kraj,2,Geis,vlak,natural95,centrální,Jan Novák
+308,1308,2022-02-17,CZK,Královehradecký kraj,2,GLS,kamion,natural95,regionální,Jiří Zeman
+309,1309,2022-07-24,EUR,Jihomoravský kraj,10,Spedquick Třebíč,kamion,diesel,centrální,Jan Novák
+310,1310,2022-07-04,EUR,Středočeský kraj,1,Spedquick Třebíč,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+311,1311,2022-02-15,CZK,Hlavní město Praha,6,Pap Trutnov,kamion,diesel,tranzitní,Karel Barel
+312,1312,2022-10-22,EUR,Královehradecký kraj,7,Pap Trutnov,kamion,natural95,centrální,Jan Novák
+313,1313,2022-09-11,EUR,Zlínský kraj,9,Spedquick Třebíč,nákladní vozidlo,diesel,centrální,Jan Novák
+314,1314,2022-07-14,EUR,Plzeňský kraj,10,Pap Trutnov,nákladní vozidlo,diesel,regionální,Jan Novák
+315,1315,2022-03-28,CZK,"Ústecký kraj,Vysočina",7,Geis,nákladní vozidlo,natural95,centrální,Jiří Zeman
+316,1316,2022-08-25,CZK,Jihočeský kraj,6,Pap Trutnov,kamion,diesel,regionální,Jan Novák
+317,1317,2022-04-25,CZK,"Ústecký kraj,Vysočina",6,GLS,kamion,diesel,tranzitní,Karel Barel
+318,1318,2022-08-03,CZK,Pardubický kraj,8,Geis,vlak,natural95,regionální,Josef Vošouch
+319,1319,2022-03-22,EUR,Královehradecký kraj,12,GLS,kamion,natural95,regionální,Daniel Podach
+320,1320,2022-01-18,EUR,"Ústecký kraj,Vysočina",12,GLS,vlak,diesel,centrální,Karel Barel
+321,1321,2021-11-30,CZK,Liberecký kraj,10,Toptrans,vlak,diesel,tranzitní,Josef Vošouch
+322,1322,2022-08-23,CZK,Zlínský kraj,5,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Jan Novák
+323,1323,2022-07-10,CZK,Královehradecký kraj,2,GLS,nákladní vozidlo,natural95,regionální,Daniel Podach
+324,1324,2022-04-07,CZK,Středočeský kraj,10,Toptrans,nákladní vozidlo,diesel,centrální,Karel Barel
+325,1325,2022-01-19,CZK,Olomoucký kraj,11,Toptrans,kamion,diesel,tranzitní,Jan Novák
+326,1326,2022-01-28,CZK,"Ústecký kraj,Vysočina",1,Toptrans,kamion,diesel,tranzitní,Daniel Podach
+327,1327,2022-07-09,EUR,Karlovarský kraj,2,Spedquick Třebíč,nákladní vozidlo,diesel,regionální,Karel Barel
+328,1328,2022-04-19,CZK,Jihočeský kraj,10,Pap Trutnov,vlak,diesel,regionální,Josef Vošouch
+329,1329,2022-06-02,CZK,Jihomoravský kraj,0,Geis,nákladní vozidlo,diesel,centrální,Jan Novák
+330,1330,2022-08-07,EUR,Moravskoslezský kraj,7,Spedquick Třebíč,nákladní vozidlo,diesel,regionální,Karel Barel
+331,1331,2022-06-01,CZK,Olomoucký kraj,10,Toptrans,nákladní vozidlo,natural95,regionální,Josef Vošouch
+332,1332,2022-07-09,EUR,Královehradecký kraj,3,Geis,vlak,natural95,regionální,Daniel Podach
+333,1333,2022-03-11,EUR,Moravskoslezský kraj,5,Pap Trutnov,nákladní vozidlo,diesel,centrální,Jiří Zeman
+334,1334,2022-09-12,CZK,Plzeňský kraj,8,Geis,vlak,diesel,regionální,Karel Barel
+335,1335,2022-07-11,EUR,Liberecký kraj,12,GLS,nákladní vozidlo,diesel,regionální,Daniel Podach
+336,1336,2022-04-23,CZK,Jihočeský kraj,1,Pap Trutnov,kamion,diesel,regionální,Jan Novák
+337,1337,2022-03-10,CZK,"Ústecký kraj,Vysočina",0,Pap Trutnov,nákladní vozidlo,natural95,regionální,Josef Vošouch
+338,1338,2022-10-20,CZK,Zlínský kraj,10,Geis,kamion,diesel,centrální,Karel Barel
+339,1339,2022-06-12,CZK,Karlovarský kraj,10,Geis,vlak,natural95,tranzitní,Jiří Zeman
+340,1340,2021-12-26,CZK,Pardubický kraj,7,Toptrans,vlak,diesel,tranzitní,Daniel Podach
+341,1341,2022-10-12,EUR,Jihočeský kraj,4,Geis,kamion,diesel,regionální,Daniel Podach
+342,1342,2022-07-21,EUR,Liberecký kraj,5,GLS,vlak,diesel,tranzitní,Jiří Zeman
+343,1343,2022-10-06,EUR,"Ústecký kraj,Vysočina",11,Toptrans,kamion,diesel,centrální,Jiří Zeman
+344,1344,2021-12-22,CZK,Moravskoslezský kraj,11,Toptrans,nákladní vozidlo,diesel,centrální,Jan Novák
+345,1345,2022-06-28,EUR,Moravskoslezský kraj,3,Spedquick Třebíč,nákladní vozidlo,natural95,centrální,Jiří Zeman
+346,1346,2021-12-21,EUR,Jihomoravský kraj,0,Pap Trutnov,vlak,natural95,regionální,Karel Barel
+347,1347,2022-05-22,EUR,Moravskoslezský kraj,0,Spedquick Třebíč,vlak,natural95,centrální,Josef Vošouch
+348,1348,2022-05-19,CZK,Moravskoslezský kraj,2,Spedquick Třebíč,kamion,natural95,regionální,Karel Barel
+349,1349,2021-12-10,CZK,Olomoucký kraj,12,Pap Trutnov,nákladní vozidlo,natural95,centrální,Jiří Zeman
+350,1350,2022-09-07,EUR,Plzeňský kraj,1,Pap Trutnov,nákladní vozidlo,diesel,centrální,Karel Barel
+351,1351,2022-01-23,CZK,Moravskoslezský kraj,6,Toptrans,kamion,diesel,centrální,Jan Novák
+352,1352,2022-05-24,CZK,Královehradecký kraj,5,Toptrans,kamion,natural95,regionální,Jan Novák
+353,1353,2022-08-05,CZK,"Ústecký kraj,Vysočina",0,GLS,nákladní vozidlo,diesel,tranzitní,Karel Barel
+354,1354,2022-07-27,CZK,Středočeský kraj,8,Toptrans,kamion,natural95,centrální,Jan Novák
+355,1355,2022-04-16,EUR,"Ústecký kraj,Vysočina",2,Toptrans,kamion,natural95,tranzitní,Daniel Podach
+356,1356,2021-11-26,EUR,Plzeňský kraj,11,Spedquick Třebíč,vlak,diesel,regionální,Karel Barel
+357,1357,2022-07-04,CZK,Karlovarský kraj,7,Geis,nákladní vozidlo,natural95,regionální,Josef Vošouch
+358,1358,2022-04-25,CZK,Hlavní město Praha,5,Spedquick Třebíč,kamion,diesel,regionální,Jiří Zeman
+359,1359,2022-07-28,EUR,"Ústecký kraj,Vysočina",0,GLS,vlak,natural95,tranzitní,Jiří Zeman
+360,1360,2022-04-13,CZK,Královehradecký kraj,3,GLS,nákladní vozidlo,diesel,centrální,Daniel Podach
+361,1361,2022-02-24,CZK,Moravskoslezský kraj,8,Toptrans,nákladní vozidlo,diesel,centrální,Jiří Zeman
+362,1362,2022-06-04,CZK,Zlínský kraj,11,GLS,kamion,natural95,tranzitní,Karel Barel
+363,1363,2022-08-06,CZK,Středočeský kraj,11,Pap Trutnov,kamion,natural95,regionální,Jiří Zeman
+364,1364,2022-04-12,CZK,Zlínský kraj,12,Spedquick Třebíč,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+365,1365,2022-07-04,CZK,Jihočeský kraj,9,Toptrans,kamion,natural95,regionální,Jan Novák
+366,1366,2022-01-16,CZK,Moravskoslezský kraj,12,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Josef Vošouch
+367,1367,2022-08-27,EUR,Zlínský kraj,4,Toptrans,nákladní vozidlo,diesel,centrální,Daniel Podach
+368,1368,2022-09-21,CZK,Zlínský kraj,1,GLS,nákladní vozidlo,natural95,regionální,Jiří Zeman
+369,1369,2022-09-13,CZK,Karlovarský kraj,10,Pap Trutnov,nákladní vozidlo,natural95,regionální,Josef Vošouch
+370,1370,2022-10-15,EUR,Pardubický kraj,3,Toptrans,kamion,diesel,tranzitní,Jan Novák
+371,1371,2022-10-02,CZK,Pardubický kraj,10,Spedquick Třebíč,kamion,natural95,tranzitní,Jan Novák
+372,1372,2022-07-23,EUR,Olomoucký kraj,9,Geis,kamion,diesel,tranzitní,Josef Vošouch
+373,1373,2022-05-31,EUR,"Ústecký kraj,Vysočina",1,Spedquick Třebíč,vlak,diesel,tranzitní,Jiří Zeman
+374,1374,2022-10-06,CZK,Středočeský kraj,9,Spedquick Třebíč,kamion,diesel,centrální,Karel Barel
+375,1375,2021-12-20,EUR,Hlavní město Praha,3,Toptrans,vlak,natural95,centrální,Jiří Zeman
+376,1376,2022-02-09,CZK,Hlavní město Praha,7,GLS,kamion,natural95,centrální,Jan Novák
+377,1377,2022-04-19,CZK,Jihomoravský kraj,6,Spedquick Třebíč,kamion,diesel,tranzitní,Jan Novák
+378,1378,2022-05-21,CZK,Moravskoslezský kraj,6,Pap Trutnov,kamion,natural95,centrální,Karel Barel
+379,1379,2022-02-20,CZK,Královehradecký kraj,9,Geis,nákladní vozidlo,diesel,regionální,Karel Barel
+380,1380,2022-03-14,EUR,Moravskoslezský kraj,11,Toptrans,vlak,diesel,centrální,Josef Vošouch
+381,1381,2022-05-06,CZK,Pardubický kraj,4,Pap Trutnov,vlak,natural95,centrální,Karel Barel
+382,1382,2022-10-16,EUR,Olomoucký kraj,9,Geis,vlak,natural95,centrální,Jan Novák
+383,1383,2022-07-19,CZK,"Ústecký kraj,Vysočina",9,Geis,kamion,diesel,centrální,Jan Novák
+384,1384,2022-08-02,EUR,Zlínský kraj,5,Spedquick Třebíč,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+385,1385,2021-11-27,CZK,Jihočeský kraj,1,GLS,kamion,natural95,regionální,Karel Barel
+386,1386,2022-07-14,CZK,Pardubický kraj,1,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Karel Barel
+387,1387,2022-05-22,EUR,Karlovarský kraj,6,Spedquick Třebíč,kamion,diesel,tranzitní,Jiří Zeman
+388,1388,2022-07-19,CZK,Zlínský kraj,2,Geis,vlak,natural95,centrální,Jiří Zeman
+389,1389,2022-05-06,EUR,Jihočeský kraj,0,Geis,vlak,diesel,centrální,Jiří Zeman
+390,1390,2022-02-03,EUR,Plzeňský kraj,11,Toptrans,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+391,1391,2022-10-10,EUR,Pardubický kraj,1,Toptrans,kamion,diesel,centrální,Jan Novák
+392,1392,2022-07-16,CZK,Středočeský kraj,5,GLS,kamion,diesel,tranzitní,Daniel Podach
+393,1393,2022-03-19,EUR,Královehradecký kraj,6,Geis,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+394,1394,2022-09-11,CZK,Jihomoravský kraj,1,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+395,1395,2022-07-19,EUR,Středočeský kraj,1,Toptrans,nákladní vozidlo,natural95,tranzitní,Karel Barel
+396,1396,2022-09-30,CZK,Jihomoravský kraj,5,Spedquick Třebíč,kamion,diesel,regionální,Josef Vošouch
+397,1397,2022-10-07,CZK,Středočeský kraj,2,GLS,kamion,natural95,regionální,Jiří Zeman
+398,1398,2022-07-25,CZK,Moravskoslezský kraj,6,Pap Trutnov,kamion,natural95,regionální,Josef Vošouch
+399,1399,2022-09-01,EUR,"Ústecký kraj,Vysočina",9,Toptrans,kamion,diesel,centrální,Josef Vošouch
+400,1400,2022-07-21,CZK,Středočeský kraj,8,GLS,vlak,natural95,centrální,Karel Barel
+401,1401,2022-05-25,CZK,Jihočeský kraj,7,Spedquick Třebíč,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+402,1402,2022-11-12,CZK,Hlavní město Praha,10,Toptrans,vlak,diesel,regionální,Josef Vošouch
+403,1403,2022-02-23,CZK,Liberecký kraj,5,Toptrans,kamion,diesel,regionální,Josef Vošouch
+404,1404,2021-12-28,EUR,Plzeňský kraj,1,GLS,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+405,1405,2022-05-28,EUR,Olomoucký kraj,4,Spedquick Třebíč,vlak,diesel,centrální,Josef Vošouch
+406,1406,2022-05-22,CZK,Olomoucký kraj,11,Toptrans,kamion,natural95,centrální,Josef Vošouch
+407,1407,2022-09-09,CZK,Královehradecký kraj,5,Geis,nákladní vozidlo,diesel,centrální,Jan Novák
+408,1408,2022-08-28,EUR,Olomoucký kraj,5,Geis,vlak,diesel,centrální,Jiří Zeman
+409,1409,2022-02-21,CZK,Pardubický kraj,0,Pap Trutnov,vlak,diesel,regionální,Jiří Zeman
+410,1410,2022-03-27,CZK,Moravskoslezský kraj,7,GLS,kamion,diesel,tranzitní,Josef Vošouch
+411,1411,2022-05-11,CZK,Jihočeský kraj,0,Toptrans,vlak,natural95,regionální,Daniel Podach
+412,1412,2022-09-28,CZK,"Ústecký kraj,Vysočina",7,Spedquick Třebíč,nákladní vozidlo,diesel,tranzitní,Josef Vošouch
+413,1413,2021-12-02,CZK,Liberecký kraj,5,GLS,nákladní vozidlo,natural95,regionální,Daniel Podach
+414,1414,2022-02-09,CZK,Karlovarský kraj,1,Spedquick Třebíč,kamion,natural95,regionální,Jan Novák
+415,1415,2022-02-12,EUR,"Ústecký kraj,Vysočina",8,GLS,nákladní vozidlo,diesel,regionální,Jiří Zeman
+416,1416,2021-12-22,EUR,Karlovarský kraj,11,Pap Trutnov,vlak,diesel,regionální,Josef Vošouch
+417,1417,2022-03-22,EUR,Moravskoslezský kraj,11,GLS,vlak,natural95,regionální,Jiří Zeman
+418,1418,2021-12-27,EUR,Plzeňský kraj,1,GLS,nákladní vozidlo,natural95,centrální,Josef Vošouch
+419,1419,2022-11-10,EUR,Hlavní město Praha,10,Toptrans,kamion,natural95,regionální,Daniel Podach
+420,1420,2022-08-16,EUR,Plzeňský kraj,11,GLS,kamion,natural95,regionální,Daniel Podach
+421,1421,2022-10-05,EUR,Královehradecký kraj,6,Pap Trutnov,nákladní vozidlo,diesel,regionální,Josef Vošouch
+422,1422,2021-12-14,CZK,Hlavní město Praha,4,Pap Trutnov,kamion,natural95,regionální,Jiří Zeman
+423,1423,2022-05-03,CZK,Jihomoravský kraj,7,Toptrans,kamion,natural95,regionální,Karel Barel
+424,1424,2022-05-16,CZK,Olomoucký kraj,10,Geis,nákladní vozidlo,diesel,regionální,Josef Vošouch
+425,1425,2022-06-17,CZK,Jihočeský kraj,3,GLS,nákladní vozidlo,diesel,regionální,Karel Barel
+426,1426,2022-08-19,CZK,Hlavní město Praha,3,Pap Trutnov,kamion,diesel,tranzitní,Karel Barel
+427,1427,2022-11-12,CZK,Plzeňský kraj,1,GLS,kamion,diesel,tranzitní,Jan Novák
+428,1428,2022-02-16,EUR,Královehradecký kraj,0,Pap Trutnov,vlak,natural95,tranzitní,Daniel Podach
+429,1429,2021-12-29,EUR,Moravskoslezský kraj,9,Spedquick Třebíč,kamion,natural95,tranzitní,Josef Vošouch
+430,1430,2022-07-12,CZK,Plzeňský kraj,7,Pap Trutnov,kamion,diesel,regionální,Jan Novák
+431,1431,2022-04-20,CZK,Plzeňský kraj,10,Spedquick Třebíč,vlak,natural95,tranzitní,Jan Novák
+432,1432,2022-01-05,CZK,"Ústecký kraj,Vysočina",8,Spedquick Třebíč,kamion,natural95,regionální,Josef Vošouch
+433,1433,2022-09-19,CZK,"Ústecký kraj,Vysočina",5,Geis,kamion,natural95,centrální,Jan Novák
+434,1434,2022-01-10,CZK,Olomoucký kraj,0,Toptrans,nákladní vozidlo,natural95,regionální,Karel Barel
+435,1435,2022-02-23,CZK,"Ústecký kraj,Vysočina",9,Geis,kamion,natural95,tranzitní,Jan Novák
+436,1436,2022-11-07,CZK,Středočeský kraj,3,Toptrans,kamion,diesel,centrální,Jan Novák
+437,1437,2022-10-08,EUR,Jihomoravský kraj,11,Spedquick Třebíč,kamion,diesel,centrální,Jan Novák
+438,1438,2021-11-30,CZK,Karlovarský kraj,5,Toptrans,kamion,natural95,centrální,Daniel Podach
+439,1439,2022-06-04,CZK,Liberecký kraj,0,GLS,nákladní vozidlo,natural95,regionální,Jan Novák
+440,1440,2022-08-22,CZK,"Ústecký kraj,Vysočina",11,Geis,nákladní vozidlo,diesel,regionální,Josef Vošouch
+441,1441,2022-04-05,EUR,Pardubický kraj,2,Geis,kamion,diesel,regionální,Karel Barel
+442,1442,2022-11-04,EUR,Liberecký kraj,0,GLS,vlak,natural95,regionální,Jan Novák
+443,1443,2022-03-22,CZK,Jihočeský kraj,5,Pap Trutnov,kamion,natural95,regionální,Josef Vošouch
+444,1444,2022-05-21,EUR,Královehradecký kraj,8,Pap Trutnov,nákladní vozidlo,natural95,tranzitní,Daniel Podach
+445,1445,2021-11-30,CZK,Zlínský kraj,3,GLS,nákladní vozidlo,natural95,centrální,Josef Vošouch
+446,1446,2022-05-10,CZK,Středočeský kraj,8,GLS,vlak,diesel,tranzitní,Karel Barel
+447,1447,2022-06-30,EUR,Hlavní město Praha,7,Geis,vlak,natural95,tranzitní,Jan Novák
+448,1448,2022-09-05,CZK,Zlínský kraj,6,Spedquick Třebíč,kamion,natural95,tranzitní,Josef Vošouch
+449,1449,2022-04-09,CZK,Plzeňský kraj,10,GLS,vlak,natural95,centrální,Daniel Podach
+450,1450,2022-05-07,EUR,Pardubický kraj,11,Spedquick Třebíč,kamion,diesel,centrální,Karel Barel
+451,1451,2022-01-13,CZK,Plzeňský kraj,0,Pap Trutnov,nákladní vozidlo,natural95,centrální,Daniel Podach
+452,1452,2022-01-21,EUR,Moravskoslezský kraj,0,Spedquick Třebíč,vlak,natural95,centrální,Jan Novák
+453,1453,2022-08-30,EUR,Zlínský kraj,0,GLS,nákladní vozidlo,natural95,regionální,Jan Novák
+454,1454,2022-06-20,CZK,"Ústecký kraj,Vysočina",12,Pap Trutnov,vlak,diesel,tranzitní,Jiří Zeman
+455,1455,2022-05-21,CZK,Královehradecký kraj,3,Toptrans,vlak,diesel,regionální,Karel Barel
+456,1456,2022-05-02,EUR,Jihomoravský kraj,1,Pap Trutnov,nákladní vozidlo,natural95,centrální,Jiří Zeman
+457,1457,2022-06-25,CZK,Středočeský kraj,11,Geis,nákladní vozidlo,natural95,tranzitní,Jiří Zeman
+458,1458,2022-06-04,EUR,Plzeňský kraj,0,Pap Trutnov,kamion,diesel,tranzitní,Daniel Podach
+459,1459,2022-03-23,CZK,Zlínský kraj,12,Spedquick Třebíč,kamion,natural95,regionální,Jan Novák
+460,1460,2022-01-20,EUR,Hlavní město Praha,9,Toptrans,vlak,diesel,regionální,Josef Vošouch
+461,1461,2022-11-15,CZK,Jihomoravský kraj,1,Geis,kamion,diesel,tranzitní,Karel Barel
+462,1462,2022-05-24,CZK,Zlínský kraj,12,GLS,nákladní vozidlo,natural95,regionální,Josef Vošouch
+463,1463,2022-08-06,CZK,Olomoucký kraj,3,Pap Trutnov,vlak,natural95,centrální,Jan Novák
+464,1464,2022-01-27,CZK,Jihočeský kraj,4,GLS,kamion,natural95,regionální,Jiří Zeman
+465,1465,2021-12-27,CZK,Pardubický kraj,7,Spedquick Třebíč,kamion,diesel,regionální,Josef Vošouch
+466,1466,2022-03-05,CZK,Plzeňský kraj,2,Spedquick Třebíč,kamion,natural95,regionální,Daniel Podach
+467,1467,2022-07-02,EUR,Karlovarský kraj,7,Pap Trutnov,nákladní vozidlo,natural95,regionální,Karel Barel
+468,1468,2022-01-01,CZK,Jihomoravský kraj,6,Spedquick Třebíč,vlak,natural95,centrální,Josef Vošouch
+469,1469,2022-01-08,CZK,Liberecký kraj,12,Toptrans,vlak,natural95,centrální,Daniel Podach
+470,1470,2022-03-02,EUR,Pardubický kraj,10,GLS,vlak,diesel,centrální,Josef Vošouch
+471,1471,2022-11-05,EUR,Plzeňský kraj,1,Toptrans,vlak,natural95,centrální,Jiří Zeman
+472,1472,2022-01-26,CZK,Jihomoravský kraj,3,Toptrans,kamion,natural95,regionální,Daniel Podach
+473,1473,2022-02-25,EUR,Karlovarský kraj,1,Geis,vlak,diesel,regionální,Jiří Zeman
+474,1474,2021-12-04,CZK,Středočeský kraj,2,GLS,vlak,natural95,regionální,Daniel Podach
+475,1475,2022-09-22,CZK,Liberecký kraj,9,Spedquick Třebíč,kamion,diesel,centrální,Daniel Podach
+476,1476,2022-04-28,CZK,Karlovarský kraj,10,GLS,vlak,diesel,centrální,Karel Barel
+477,1477,2021-12-09,CZK,Středočeský kraj,12,Geis,kamion,natural95,regionální,Karel Barel
+478,1478,2022-07-30,EUR,"Ústecký kraj,Vysočina",12,Geis,nákladní vozidlo,natural95,centrální,Jan Novák
+479,1479,2022-05-02,CZK,Středočeský kraj,6,Spedquick Třebíč,kamion,diesel,tranzitní,Karel Barel
+480,1480,2022-04-17,EUR,"Ústecký kraj,Vysočina",8,Spedquick Třebíč,kamion,diesel,tranzitní,Jiří Zeman
+481,1481,2022-09-05,EUR,Zlínský kraj,10,Spedquick Třebíč,nákladní vozidlo,natural95,tranzitní,Jan Novák
+482,1482,2022-10-20,EUR,Jihomoravský kraj,10,Toptrans,kamion,natural95,centrální,Daniel Podach
+483,1483,2022-01-05,EUR,Jihočeský kraj,3,Pap Trutnov,kamion,natural95,regionální,Jiří Zeman
+484,1484,2022-11-16,CZK,Zlínský kraj,5,Pap Trutnov,nákladní vozidlo,natural95,regionální,Daniel Podach
+485,1485,2021-12-01,CZK,Moravskoslezský kraj,0,Spedquick Třebíč,nákladní vozidlo,diesel,regionální,Karel Barel
+486,1486,2022-04-19,CZK,Středočeský kraj,3,Geis,kamion,natural95,centrální,Josef Vošouch
+487,1487,2021-12-02,EUR,Moravskoslezský kraj,11,Toptrans,nákladní vozidlo,natural95,regionální,Jiří Zeman
+488,1488,2022-02-16,EUR,Olomoucký kraj,5,Pap Trutnov,kamion,natural95,centrální,Josef Vošouch
+489,1489,2021-12-18,CZK,Pardubický kraj,6,Toptrans,nákladní vozidlo,diesel,tranzitní,Jan Novák
+490,1490,2022-08-24,EUR,Královehradecký kraj,12,Spedquick Třebíč,vlak,natural95,regionální,Josef Vošouch
+491,1491,2021-11-28,CZK,Zlínský kraj,7,Pap Trutnov,nákladní vozidlo,diesel,regionální,Josef Vošouch
+492,1492,2021-12-14,CZK,Královehradecký kraj,3,Toptrans,nákladní vozidlo,natural95,centrální,Daniel Podach
+493,1493,2022-04-30,CZK,Olomoucký kraj,0,Geis,kamion,natural95,tranzitní,Josef Vošouch
+494,1494,2022-09-18,EUR,Karlovarský kraj,10,Pap Trutnov,kamion,natural95,centrální,Josef Vošouch
+495,1495,2022-09-09,EUR,Hlavní město Praha,10,Toptrans,kamion,diesel,tranzitní,Jan Novák
+496,1496,2022-05-11,CZK,Hlavní město Praha,12,Toptrans,kamion,diesel,centrální,Jiří Zeman
+497,1497,2022-05-14,EUR,Královehradecký kraj,7,Spedquick Třebíč,kamion,diesel,tranzitní,Jiří Zeman
+498,1498,2021-12-15,EUR,Hlavní město Praha,5,Geis,kamion,diesel,regionální,Jan Novák
+499,1499,2022-09-03,CZK,Jihočeský kraj,2,Toptrans,nákladní vozidlo,natural95,centrální,Jiří Zeman
